@@ -1,0 +1,7 @@
+A5 order 60 atoms 37 degree 10
+  200 tried 4s {'d3>=3,not-vc': 199, 'd3<=2': 1}
+  400 tried 7s {'d3>=3,not-vc': 399, 'd3<=2': 1}
+  600 tried 11s {'d3>=3,not-vc': 597, 'd3<=2': 3}
+  800 tried 15s {'d3>=3,not-vc': 796, 'd3<=2': 4}
+  1000 tried 19s {'d3>=3,not-vc': 995, 'd3<=2': 5}
+A5 10 final {'d3>=3,not-vc': 995, 'd3<=2': 5}

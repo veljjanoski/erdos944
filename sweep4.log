@@ -1,0 +1,21 @@
+Z2xZ12 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (23 iterations, 0s)
+Z3xZ12 order 36: NO (4,2)-Cayley graph with degree in [9,12]  (116 iterations, 2s)
+Z4xZ12 order 48: NO (4,2)-Cayley graph with degree in [9,12]  (1079 iterations, 377s)
+Z6xZ6 order 36: NO (4,2)-Cayley graph with degree in [9,12]  (277 iterations, 10s)
+Z2xZ2xZ8 order 32: NO (4,2)-Cayley graph with degree in [9,12]  (355 iterations, 13s)
+Z2xZ4xZ4 order 32: NO (4,2)-Cayley graph with degree in [9,12]  (264 iterations, 6s)
+Z2xZ18 order 36: NO (4,2)-Cayley graph with degree in [9,12]  (298 iterations, 13s)
+Z2xZ20 order 40: NO (4,2)-Cayley graph with degree in [9,12]  (477 iterations, 37s)
+Z3xZ15 order 45: NO (4,2)-Cayley graph with degree in [9,12]  (74 iterations, 3s)
+Z2xZ24 order 48: NO (4,2)-Cayley graph with degree in [9,12]  (1420 iterations, 405s)
+Z2xZ30: TIMEOUT after 1800 s
+Z3xZ18 order 54: NO (4,2)-Cayley graph with degree in [9,12]  (272 iterations, 43s)
+Z4xZ16: TIMEOUT after 1800 s
+Z6xZ12 order 72: NO (4,2)-Cayley graph with degree in [9,12]  (703 iterations, 322s)
+Z2xZ36: TIMEOUT after 1800 s
+Z8xZ8: TIMEOUT after 1800 s
+Z2xZ2xZ12: TIMEOUT after 1800 s
+Z2xZ6xZ6: TIMEOUT after 1800 s
+Z3xZ3xZ6 order 54: NO (4,2)-Cayley graph with degree in [9,12]  (91 iterations, 6s)
+Z2xZ40: TIMEOUT after 1800 s
+Z3xZ21 order 63: NO (4,2)-Cayley graph with degree in [9,12]  (198 iterations, 35s)

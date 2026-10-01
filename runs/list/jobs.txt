@@ -1,0 +1,16 @@
+ls_00	python ../../cegar944s.py A5xZ2 --list 10
+ls_01	python ../../cegar944s.py S4xS3 --list 10
+ls_02	python ../../cegar944s.py Z5x|2Z4xZ6 --list 10
+ls_03	python ../../cegar944s.py PSL27 --list 10
+ls_04	python ../../cegar944s.py S5 --list 10
+ls_05	python ../../cegar944s.py SL25 --list 10
+ls_06	python ../../cegar944s.py A5xZ3 --list 10
+ls_07	python ../../cegar944s.py PGL27 --list 10
+ls_08	python ../../cegar944s.py A6 --list 10
+ls_09	python ../../cegar944s.py PSL28 --list 10
+ls_10	python ../../cegar944s.py PSL27xZ2 --list 10
+ls_11	python ../../cegar944s.py Z5x|2Z12xZ2 --list 10
+ls_12	python ../../cegar944s.py Z15x|2Z4xZ2 --list 10
+ls_13	python ../../cegar944s.py Z15x|2Z4xZ3 --list 10
+ls_14	python ../../cegar944s.py S4xZ5 --list 10
+ls_15	python ../../cegar944s.py S4xZ6 --list 10

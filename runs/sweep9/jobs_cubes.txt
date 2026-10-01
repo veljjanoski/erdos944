@@ -1,0 +1,13 @@
+cube_s9_PGL27_c0	python ../../cegar944s.py PGL27 2 9 9 --sigma 0 --cubes
+cube_s9_PGL27_c1	python ../../cegar944s.py PGL27 2 9 9 --sigma 1 --cubes
+cube_s9_PSL28_c4	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes
+cube_s9_PSL27xZ2_c1	python ../../cegar944s.py PSL27xZ2 2 9 9 --sigma 1 --cubes
+cube_s9_PSL27xZ2_c3	python ../../cegar944s.py PSL27xZ2 2 9 9 --sigma 3 --cubes
+cube_s10_PGL27_c0	python ../../cegar944s.py PGL27 2 10 10 --sigma 0 --cubes
+cube_s10_PGL27_c1	python ../../cegar944s.py PGL27 2 10 10 --sigma 1 --cubes
+cube_s10_A6_c1	python ../../cegar944s.py A6 2 10 10 --sigma 1 --cubes
+cube_s10_A6_c2	python ../../cegar944s.py A6 2 10 10 --sigma 2 --cubes
+cube_s10_A6_c4	python ../../cegar944s.py A6 2 10 10 --sigma 4 --cubes
+cube_s10_PSL28_c4	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes
+cube_s10_PSL27xZ2_c1	python ../../cegar944s.py PSL27xZ2 2 10 10 --sigma 1 --cubes
+cube_s10_PSL27xZ2_c3	python ../../cegar944s.py PSL27xZ2 2 10 10 --sigma 3 --cubes

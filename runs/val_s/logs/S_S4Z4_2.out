@@ -1,0 +1,4 @@
+S4xZ4 order 96: NO (4,2)-Cayley graph with degree in [9,9]  (34 iterations, 329s) [c]
+S4xZ4 order 96: |Aut|=96 sigma=id |N|=96 atoms=57 lex-perms=95 replayed cuts=0  [0s]
+S4xZ4 order 96: NO (4,2)-Cayley graph with degree in [9,9]  (34 iterations, 99s) [s sigma=id]
+PASS same S4xZ4 r=2 d=[9,9]: c NO 329s, s(id) NO 99s

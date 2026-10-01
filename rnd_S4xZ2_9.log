@@ -1,0 +1,7 @@
+S4xZ2 order 48 atoms 33 degree 9
+  200 tried 2s {'d3>=3,not-vc': 168, 'd3<=2': 32}
+  400 tried 5s {'d3>=3,not-vc': 341, 'd3<=2': 59}
+  600 tried 7s {'d3>=3,not-vc': 513, 'd3<=2': 87}
+  800 tried 10s {'d3>=3,not-vc': 679, 'd3<=2': 121}
+  1000 tried 12s {'d3>=3,not-vc': 838, 'd3<=2': 162}
+S4xZ2 9 final {'d3>=3,not-vc': 838, 'd3<=2': 162}

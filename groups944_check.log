@@ -1,0 +1,8 @@
+PSL27  order  168 (expected 168)  element orders OK  associative(sample) True
+PGL27  order  336 (expected 336)  element orders OK  associative(sample) True
+SL25   order  120 (expected 120)  element orders OK  associative(sample) True
+PSL28  order  504 (expected 504)  element orders OK  associative(sample) True
+A6     order  360 (expected 360)  element orders OK  associative(sample) True
+S5     order  120 (expected 120)  element orders OK  associative(sample) True
+A5     order   60 (expected 60)  element orders OK  associative(sample) True
+ALL OK

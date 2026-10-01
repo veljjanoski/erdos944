@@ -1,0 +1,30 @@
+  S4xZ2 it 50 deg 6 3s
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (61 iterations, 4s) [c]
+S4xZ2 order 48: |Aut|=48 sigma=0 (order 2, class size 1, fp 35b6cbd4) |N|=48 atoms=24 lex-perms=23 replayed cuts=0  [0s]
+  300 cubes, 0 already done
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (303 iterations, 0s) [s sigma=0 (order 2, class size 1, fp 35b6cbd4) nocuts cubes=300]
+S4xZ2 order 48: |Aut|=48 sigma=1 (order 3, class size 8, fp b0040507) |N|=12 atoms=13 lex-perms=1 replayed cuts=0  [0s]
+  91 cubes, 0 already done
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (91 iterations, 0s) [s sigma=1 (order 3, class size 8, fp b0040507) nocuts cubes=91]
+S4xZ2 order 48: |Aut|=48 sigma=2 (order 2, class size 6, fp 60d3a494) |N|=8 atoms=23 lex-perms=3 replayed cuts=0  [0s]
+  276 cubes, 0 already done
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (292 iterations, 0s) [s sigma=2 (order 2, class size 6, fp 60d3a494) nocuts cubes=276]
+S4xZ2 order 48: |Aut|=48 sigma=3 (order 2, class size 6, fp 538e25e9) |N|=8 atoms=20 lex-perms=3 replayed cuts=0  [0s]
+  210 cubes, 0 already done
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (221 iterations, 0s) [s sigma=3 (order 2, class size 6, fp 538e25e9) nocuts cubes=210]
+S4xZ2 order 48: |Aut|=48 sigma=4 (order 2, class size 3, fp af09d6b2) |N|=16 atoms=25 lex-perms=7 replayed cuts=0  [0s]
+  325 cubes, 0 already done
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (356 iterations, 0s) [s sigma=4 (order 2, class size 3, fp af09d6b2) nocuts cubes=325]
+S4xZ2 order 48: |Aut|=48 sigma=5 (order 2, class size 3, fp c740d005) |N|=16 atoms=20 lex-perms=7 replayed cuts=0  [0s]
+  210 cubes, 0 already done
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (216 iterations, 0s) [s sigma=5 (order 2, class size 3, fp c740d005) nocuts cubes=210]
+S4xZ2 order 48: |Aut|=48 sigma=id |N|=48 atoms=33 lex-perms=47 replayed cuts=0  [0s]
+S4xZ2 order 48: CANDIDATE (4,1) degree 6 S=[(5, 1), (14, 1), (15, 1), (16, 1), (20, 1), (23, 0)] S_idx=[11, 29, 31, 33, 41, 46] (22 it, 0s) [s sigma=id nocuts]
+S4xZ2 order 48: WITNESS (4,1) degree 6 S=[(5, 1), (14, 1), (15, 1), (16, 1), (20, 1), (23, 0)] explicit=True ok (22 it, 1s) [s sigma=id nocuts]
+S4xZ2 order 48: CANDIDATE (4,1) degree 6 S=[(0, 1), (6, 1), (14, 1), (16, 1), (21, 1), (23, 0)] S_idx=[1, 13, 29, 33, 43, 46] (35 it, 1s) [s sigma=id nocuts]
+S4xZ2 order 48: WITNESS (4,1) degree 6 S=[(0, 1), (6, 1), (14, 1), (16, 1), (21, 1), (23, 0)] explicit=True ok (35 it, 1s) [s sigma=id nocuts]
+S4xZ2 order 48: CANDIDATE (4,1) degree 6 S=[(7, 0), (14, 1), (15, 1), (20, 1), (21, 1), (23, 1)] S_idx=[14, 29, 31, 41, 43, 47] (37 it, 2s) [s sigma=id nocuts]
+S4xZ2 order 48: WITNESS (4,1) degree 6 S=[(7, 0), (14, 1), (15, 1), (20, 1), (21, 1), (23, 1)] explicit=True ok (37 it, 2s) [s sigma=id nocuts]
+  S4xZ2 it 50 deg 6 2s
+S4xZ2 order 48: ENUM DONE: 3 (4,1) witness(es) with degree in [6,6]  (51 iterations, 2s) [s sigma=id nocuts]
+PASS lane (cubes) S4xZ2 r=1 d=6: orbits 3, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0, 0, 0]); sigma=id finds all orbits exactly once: True  [7s]

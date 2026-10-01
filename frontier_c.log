@@ -1,0 +1,39 @@
+A4xZ8 order 96: NO (4,2)-Cayley graph with degree in [10,10]  (5 iterations, 87s) [c]
+D30 order 60: NO (4,2)-Cayley graph with degree in [10,10]  (1 iterations, 349s) [c]
+D30 order 60: NO (4,2)-Cayley graph with degree in [12,12]  (1 iterations, 412s) [c]
+Z25x|7Z4 order 100: NO (4,2)-Cayley graph with degree in [9,9]  (8 iterations, 414s) [c]
+D30 order 60: NO (4,2)-Cayley graph with degree in [11,11]  (1 iterations, 475s) [c]
+Z90 order 90: NO (4,2)-Cayley graph with degree in [10,10]  (1 iterations, 517s) [c]
+Z96 order 96: NO (4,2)-Cayley graph with degree in [10,10]  (1 iterations, 572s) [c]
+Z11x|2Z10 order 110: NO (4,2)-Cayley graph with degree in [9,9]  (28 iterations, 263s) [c]
+Z100 order 100: NO (4,2)-Cayley graph with degree in [10,10]  (1 iterations, 655s) [c]
+S4xZ4 order 96: NO (4,2)-Cayley graph with degree in [9,9]  (34 iterations, 706s) [c]
+Z25x|7Z4 order 100: NO (4,2)-Cayley graph with degree in [10,10]  (3 iterations, 687s) [c]
+Z11x|2Z10 order 110: NO (4,2)-Cayley graph with degree in [11,11]  (28 iterations, 373s) [c]
+Z11x|2Z10 order 110: NO (4,2)-Cayley graph with degree in [10,10]  (35 iterations, 483s) [c]
+S4xZ4 order 96: NO (4,2)-Cayley graph with degree in [10,10]  (28 iterations, 1093s) [c]
+Z17x|2Z8 order 136: NO (4,2)-Cayley graph with degree in [9,9]  (5 iterations, 771s) [c]
+Z11x|2Z10 order 110: NO (4,2)-Cayley graph with degree in [12,12]  (51 iterations, 1228s) [c]
+Z112 order 112: NO (4,2)-Cayley graph with degree in [10,10]  (1 iterations, 1543s) [c]
+Z17x|2Z8 order 136: NO (4,2)-Cayley graph with degree in [10,10]  (8 iterations, 2089s) [c]
+Z13x|2Z12 order 156: NO (4,2)-Cayley graph with degree in [9,9]  (3 iterations, 1977s) [c]
+Z19x|4Z9 order 171: NO (4,2)-Cayley graph with degree in [10,10]  (2 iterations, 1000s) [c]
+D36 order 72: NO (4,2)-Cayley graph with degree in [9,9]  (23 iterations, 4631s) [c]
+D36 order 72: NO (4,2)-Cayley graph with degree in [10,10]  (2 iterations, 5547s) [c]
+Z13x|2Z12 order 156: NO (4,2)-Cayley graph with degree in [10,10]  (111 iterations, 4985s) [c]
+D42 deg 10: TIMEOUT after 7200 s
+D42 deg 9: TIMEOUT after 7200 s
+D48 deg 9: TIMEOUT after 7200 s
+D48 deg 10: TIMEOUT after 7200 s
+Z120 order 120: NO (4,2)-Cayley graph with degree in [10,10]  (1 iterations, 6764s) [c]
+A5xZ2 deg 9: TIMEOUT after 7200 s
+D60 deg 9: TIMEOUT after 7200 s
+D60 deg 10: TIMEOUT after 7200 s
+A5xZ2 deg 10: TIMEOUT after 7200 s
+S4xS3 deg 9: TIMEOUT after 7200 s
+S4xS3 deg 10: TIMEOUT after 7200 s
+Z27x|4Z9 deg 10: TIMEOUT after 7200 s
+Z32x|3Z8 deg 9: TIMEOUT after 7200 s
+Z32x|3Z8 deg 10: TIMEOUT after 7200 s
+Z35x|2Z12 deg 9: TIMEOUT after 7200 s
+Z35x|2Z12 deg 10: TIMEOUT after 7200 s

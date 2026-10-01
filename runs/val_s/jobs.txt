@@ -1,0 +1,15 @@
+L_Z5Z12	python ../../validate_s.py lane Z5x|2Z12 1 6
+L_Z15Z4	python ../../validate_s.py lane Z15x|2Z4 1 6
+L_S4Z2	python ../../validate_s.py lane S4xZ2 1 6
+L_A5_0_9	python ../../validate_s.py lane A5 0 9
+L_D20_0_9	python ../../validate_s.py lane D20 0 9
+L_Z40_0_9	python ../../validate_s.py lane Z40 0 9
+L_D10_0_6	python ../../validate_s.py lane D10 0 6
+L_Z13_0_6	python ../../validate_s.py lane Z13 0 6
+S_Z13_1	python ../../validate_s.py same Z13 1 6 6
+S_A5_1	python ../../validate_s.py same A5 1 6 6
+S_D30_1	python ../../validate_s.py same D30 1 6 6
+S_S4Z2_1	python ../../validate_s.py same S4xZ2 1 6 6
+S_S4Z4_2	python ../../validate_s.py same S4xZ4 2 9 9
+S_D24_2	python ../../validate_s.py same D24 2 11 11
+S_Z80_2	python ../../validate_s.py same Z80 2 10 10

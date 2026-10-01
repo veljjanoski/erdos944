@@ -1,0 +1,3 @@
+cl_S4xZ2	python ../../closure944.py S4xZ2 1 6
+cl_Z5Z12	python ../../closure944.py Z5x|2Z12 1 6
+cl_Z15Z4	python ../../closure944.py Z15x|2Z4 1 6

@@ -1,0 +1,29 @@
+  S4xZ2 it 50 deg 6 3s
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (61 iterations, 5s) [c]
+S4xZ2: 3 witness orbit(s) of (4,1)-Cayley graphs at degree 6
+S4xZ2 orbit 0: S = [(5, 1), (14, 1), (15, 1), (16, 1), (20, 1), (23, 0)]
+[S4xZ2#0] n=48 m=144 deg=6 d3=2 G-e 3-colourable=True
+[S4xZ2#0] proper colourings of G1-e mod renaming: 1; defect-2 colourings mod renaming: 1464  [6s]
+[S4xZ2#0] check: plain counts 8784 = 6 x 1464? True;  18 = 18 x 1? True  [11s]
+[S4xZ2#0] SAT instance: 1032 variables, 18264 clauses  [11s]
+c found falsified original clause
+[S4xZ2#0] cadical: UNSAT  [11s]
+[S4xZ2#0] glucose: UNSAT  [11s]
+[S4xZ2#0] RESULT: no (4,2)-graph contains this graph (exact)
+S4xZ2 orbit 1: S = [(0, 1), (6, 1), (14, 1), (16, 1), (21, 1), (23, 0)]
+[S4xZ2#1] n=48 m=144 deg=6 d3=2 G-e 3-colourable=True
+[S4xZ2#1] proper colourings of G1-e mod renaming: 1; defect-2 colourings mod renaming: 1464  [5s]
+[S4xZ2#1] check: plain counts 8784 = 6 x 1464? True;  18 = 18 x 1? True  [10s]
+[S4xZ2#1] SAT instance: 1032 variables, 18264 clauses  [10s]
+c found falsified original clause
+[S4xZ2#1] cadical: UNSAT  [10s]
+[S4xZ2#1] glucose: UNSAT  [10s]
+[S4xZ2#1] RESULT: no (4,2)-graph contains this graph (exact)
+S4xZ2 orbit 2: S = [(7, 0), (14, 1), (15, 1), (20, 1), (21, 1), (23, 1)]
+[S4xZ2#2] n=48 m=144 deg=6 d3=2 G-e 3-colourable=True
+[S4xZ2#2] proper colourings of G1-e mod renaming: 8; defect-2 colourings mod renaming: 3024  [11s]
+[S4xZ2#2] check: plain counts 18144 = 6 x 3024? True;  144 = 18 x 8? True  [17s]
+[S4xZ2#2] SAT instance: 1368 variables, 137280 clauses  [17s]
+[S4xZ2#2] cadical: UNSAT  [17s]
+[S4xZ2#2] glucose: UNSAT  [17s]
+[S4xZ2#2] RESULT: no (4,2)-graph contains this graph (exact)

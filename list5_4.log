@@ -1,0 +1,10 @@
+Z32x|3Z8: TIMEOUT after 7200 s
+Z21x|4Z3 order 63: NO (4,2)-Cayley graph with degree in [9,9]  (1 iterations, 0s)
+Z21x|2Z6 order 126: NO (4,2)-Cayley graph with degree in [9,9]  (44 iterations, 633s)
+Z35x|2Z12: TIMEOUT after 7200 s
+Z5x|2Z16 order 80: NO (4,2)-Cayley graph with degree in [9,9]  (12 iterations, 72s)
+c found falsified original clause
+Z5x|4Z6 order 30: NO (4,2)-Cayley graph with degree in [9,9]  (94 iterations, 2s)
+D36: TIMEOUT after 7200 s
+D42: TIMEOUT after 7200 s
+D48: TIMEOUT after 7200 s

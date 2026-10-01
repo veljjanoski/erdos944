@@ -1,0 +1,16 @@
+  S4xZ2 it 50 deg 6 1s
+  S4xZ2 it 100 deg 6 5s
+  S4xZ2 it 200 deg 6 14s
+  S4xZ2 it 250 deg 6 28s
+  S4xZ2 it 300 deg 6 40s
+  S4xZ2 it 350 deg 6 51s
+  S4xZ2 it 400 deg 6 66s
+  S4xZ2 it 450 deg 6 80s
+  S4xZ2 it 500 deg 6 99s
+  S4xZ2 it 600 deg 6 135s
+  S4xZ2 it 650 deg 6 156s
+  S4xZ2 it 700 deg 6 179s
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (771 iterations, 231s) [c-nosymm]
+  S4xZ2 it 50 deg 6 3s
+S4xZ2 order 48: NO (4,1)-Cayley graph with degree in [6,6]  (61 iterations, 5s) [c]
+OK S4xZ2: |Aut|=48 all witnesses 144 in 3 orbits; symmetry-broken search found 3, hits per orbit [1]  236s

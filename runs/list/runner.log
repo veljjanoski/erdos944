@@ -1,0 +1,18 @@
+16 jobs, 0 already finished/skipped, 16 to run
+[2026-09-29 16:55:45] ls_00: DONE (1.0 s)   class 3: order 2, size 15, sigma-atoms 47, |N|=8
+[2026-09-29 16:55:45] ls_01: DONE (1.0 s)   class 7: order 2, size 18, sigma-atoms 57, |N|=8
+[2026-09-29 16:55:45] ls_02: DONE (1.0 s)   class 7: order 2, size 5, sigma-atoms 43, |N|=16
+[2026-09-29 16:55:45] ls_03: DONE (1.0 s)   class 3: order 2, size 21, sigma-atoms 54, |N|=16
+[2026-09-29 16:55:45] ls_04: DONE (1.0 s)   class 3: order 5, size 24, sigma-atoms 16, |N|=20
+[2026-09-29 16:55:45] ls_05: DONE (1.0 s)   class 3: order 3, size 20, sigma-atoms 22, |N|=12
+[2026-09-29 16:55:46] ls_06: DONE (1.0 s)   class 6: order 2, size 15, sigma-atoms 61, |N|=16
+[2026-09-29 16:55:46] ls_07: DONE (1.0 s)   class 3: order 3, size 56, sigma-atoms 66, |N|=12
+[2026-09-29 16:55:46] ls_10: DONE (1.0 s)   class 3: order 2, size 21, sigma-atoms 109, |N|=16
+[2026-09-29 16:55:46] ls_11: DONE (1.0 s)   class 7: order 2, size 5, sigma-atoms 42, |N|=16
+[2026-09-29 16:55:47] ls_12: DONE (1.0 s)   class 8: order 2, size 15, sigma-atoms 42, |N|=16
+[2026-09-29 16:55:47] ls_13: DONE (1.0 s)   class 8: order 2, size 15, sigma-atoms 60, |N|=16
+[2026-09-29 16:55:47] ls_14: DONE (1.0 s)   class 5: order 2, size 6, sigma-atoms 45, |N|=16
+[2026-09-29 16:55:48] ls_15: DONE (1.0 s)   class 11: order 2, size 6, sigma-atoms 57, |N|=16
+[2026-09-29 16:55:51] ls_08: DONE (5.1 s)   class 4: order 2, size 45, sigma-atoms 114, |N|=32
+[2026-09-29 16:55:55] ls_09: DONE (9.1 s)   class 4: order 2, size 63, sigma-atoms 159, |N|=24
+runner finished

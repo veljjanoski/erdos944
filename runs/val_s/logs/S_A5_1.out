@@ -1,0 +1,4 @@
+A5 order 60: NO (4,1)-Cayley graph with degree in [6,6]  (33 iterations, 2s) [c]
+A5 order 60: |Aut|=120 sigma=id |N|=120 atoms=37 lex-perms=119 replayed cuts=0  [0s]
+A5 order 60: NO (4,1)-Cayley graph with degree in [6,6]  (34 iterations, 1s) [s sigma=id]
+PASS same A5 r=1 d=[6,6]: c NO 2s, s(id) NO 1s

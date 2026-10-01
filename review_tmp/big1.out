@@ -1,0 +1,163 @@
+Z7x|2Z3 order 21: NO (4,0)-Cayley graph with degree in [1,60]  (1 iterations, 0s) [b]
+Z7x|2Z3 r=0 [1,60] split=True: A=10 result=NO tested=848 sat=0 no cut maxvar=133 problems=[]
+Z7x|2Z3: maxiter reached [b-nosplit]
+Z7x|2Z3 r=0 [1,60] split=False: A=10 result=maxiter tested=1024 sat=130 cut checked on 400 S, 0 mismatches maxvar=73 problems=[]
+Z7x|2Z3 order 21: NO (4,1)-Cayley graph with degree in [6,6]  (1 iterations, 0s) [b]
+Z7x|2Z3 r=1 [6,6] split=True: A=10 result=NO tested=1024 sat=0 no cut maxvar=409 problems=[]
+Z7x|2Z3 order 21: NO (4,1)-Cayley graph with degree in [6,6]  (2 iterations, 0s) [b-nosplit]
+Z7x|2Z3 r=1 [6,6] split=False: A=10 result=NO tested=1024 sat=35 cut checked on 400 S, 0 mismatches maxvar=363 problems=[]
+Z7x|2Z3 order 21: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b]
+Z7x|2Z3 r=2 [9,12] split=True: A=10 result=NO tested=1024 sat=0 no cut maxvar=481 problems=[]
+Z7x|2Z3 order 21: NO (4,2)-Cayley graph with degree in [9,12]  (2 iterations, 0s) [b-nosplit]
+Z7x|2Z3 r=2 [9,12] split=False: A=10 result=NO tested=1024 sat=28 cut checked on 400 S, 0 mismatches maxvar=448 problems=[]
+Z7x|2Z3 order 21: NO (4,2)-Cayley graph with degree in [6,14]  (1 iterations, 0s) [b]
+Z7x|2Z3 r=2 [6,14] split=True: A=10 result=NO tested=904 sat=0 no cut maxvar=454 problems=[]
+Z7x|2Z3 order 21: NO (4,2)-Cayley graph with degree in [6,14]  (2 iterations, 0s) [b-nosplit]
+Z7x|2Z3 r=2 [6,14] split=False: A=10 result=NO tested=1024 sat=99 cut checked on 400 S, 0 mismatches maxvar=421 problems=[]
+Z5x|2Z4: maxiter reached [b]
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+Z5x|2Z4 r=0 [1,60] split=True: A=12 result=maxiter tested=3756 sat=110 cut checked on 400 S, 0 mismatches maxvar=129 problems=[]
+Z5x|2Z4: maxiter reached [b-nosplit]
+Z5x|2Z4 r=0 [1,60] split=False: A=12 result=maxiter tested=4096 sat=174 cut checked on 400 S, 0 mismatches maxvar=72 problems=[]
+Z5x|2Z4 order 20: NO (4,1)-Cayley graph with degree in [6,6]  (1 iterations, 0s) [b]
+Z5x|2Z4 r=1 [6,6] split=True: A=12 result=NO tested=4096 sat=0 no cut maxvar=387 problems=[]
+Z5x|2Z4: maxiter reached [b-nosplit]
+Z5x|2Z4 r=1 [6,6] split=False: A=12 result=maxiter tested=4096 sat=20 cut checked on 400 S, 0 mismatches maxvar=452 problems=[]
+Z5x|2Z4 order 20: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b]
+Z5x|2Z4 r=2 [9,12] split=True: A=12 result=NO tested=4096 sat=0 no cut maxvar=447 problems=[]
+Z5x|2Z4 order 20: NO (4,2)-Cayley graph with degree in [9,12]  (2 iterations, 0s) [b-nosplit]
+Z5x|2Z4 r=2 [9,12] split=False: A=12 result=NO tested=4096 sat=1 cut checked on 400 S, 0 mismatches maxvar=438 problems=[]
+Z5x|2Z4 order 20: NO (4,2)-Cayley graph with degree in [6,14]  (1 iterations, 0s) [b]
+Z5x|2Z4 r=2 [6,14] split=True: A=12 result=NO tested=3920 sat=0 no cut maxvar=421 problems=[]
+Z5x|2Z4: maxiter reached [b-nosplit]
+Z5x|2Z4 r=2 [6,14] split=False: A=12 result=maxiter tested=4096 sat=26 cut checked on 400 S, 0 mismatches maxvar=592 problems=[]
+S4: maxiter reached [b]
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+S4 r=0 [1,60] split=True: A=16 result=maxiter tested=89 sat=13 cut checked on 150 S, 0 mismatches maxvar=157 problems=[]
+S4: maxiter reached [b-nosplit]
+S4 r=0 [1,60] split=False: A=16 result=maxiter tested=150 sat=37 cut checked on 150 S, 0 mismatches maxvar=88 problems=[]
+S4: maxiter reached [b]
+S4 r=1 [6,6] split=True: A=16 result=maxiter tested=150 sat=0 cut checked on 150 S, 0 mismatches maxvar=819 problems=[]
+S4: maxiter reached [b-nosplit]
+S4 r=1 [6,6] split=False: A=16 result=maxiter tested=150 sat=2 cut checked on 150 S, 0 mismatches maxvar=638 problems=[]
+S4 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b]
+S4 r=2 [9,12] split=True: A=16 result=NO tested=150 sat=0 no cut maxvar=595 problems=[]
+S4: maxiter reached [b-nosplit]
+S4 r=2 [9,12] split=False: A=16 result=maxiter tested=150 sat=0 cut checked on 150 S, 0 mismatches maxvar=832 problems=[]
+S4 order 24: NO (4,2)-Cayley graph with degree in [6,14]  (1 iterations, 0s) [b]
+S4 r=2 [6,14] split=True: A=16 result=NO tested=144 sat=0 no cut maxvar=565 problems=[]
+S4: maxiter reached [b-nosplit]
+S4 r=2 [6,14] split=False: A=16 result=maxiter tested=150 sat=4 cut checked on 150 S, 0 mismatches maxvar=805 problems=[]
+Dic6: maxiter reached [b]
+c found falsified original clause
+Dic6 r=0 [1,60] split=True: A=12 result=maxiter tested=2972 sat=81 cut checked on 400 S, 0 mismatches maxvar=153 problems=[]
+Dic6: maxiter reached [b-nosplit]
+Dic6 r=0 [1,60] split=False: A=12 result=maxiter tested=4096 sat=796 cut checked on 400 S, 0 mismatches maxvar=84 problems=[]
+Dic6 order 24: NO (4,1)-Cayley graph with degree in [6,6]  (1 iterations, 0s) [b]
+Dic6 r=1 [6,6] split=True: A=12 result=NO tested=4096 sat=0 no cut maxvar=483 problems=[]
+Dic6: maxiter reached [b-nosplit]
+Dic6 r=1 [6,6] split=False: A=12 result=maxiter tested=4096 sat=158 cut checked on 400 S, 0 mismatches maxvar=616 problems=[]
+Dic6 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b]
+Dic6 r=2 [9,12] split=True: A=12 result=NO tested=4096 sat=0 no cut maxvar=591 problems=[]
+Dic6: maxiter reached [b-nosplit]
+Dic6 r=2 [9,12] split=False: A=12 result=maxiter tested=4096 sat=288 cut checked on 400 S, 0 mismatches maxvar=828 problems=[]
+Dic6 order 24: NO (4,2)-Cayley graph with degree in [6,14]  (1 iterations, 0s) [b]
+Dic6 r=2 [6,14] split=True: A=12 result=NO tested=3766 sat=0 no cut maxvar=561 problems=[]
+Dic6: maxiter reached [b-nosplit]
+Dic6 r=2 [6,14] split=False: A=12 result=maxiter tested=4096 sat=720 cut checked on 400 S, 0 mismatches maxvar=798 problems=[]
+D12: maxiter reached [b]
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+D12 r=0 [1,60] split=True: A=18 result=maxiter tested=85 sat=15 cut checked on 150 S, 0 mismatches maxvar=159 problems=[]
+D12: maxiter reached [b-nosplit]
+D12 r=0 [1,60] split=False: A=18 result=maxiter tested=150 sat=36 cut checked on 150 S, 0 mismatches maxvar=90 problems=[]
+D12 order 24: NO (4,1)-Cayley graph with degree in [6,6]  (1 iterations, 1s) [b]
+D12 r=1 [6,6] split=True: A=18 result=NO tested=150 sat=0 no cut maxvar=489 problems=[]
+D12: maxiter reached [b-nosplit]
+D12 r=1 [6,6] split=False: A=18 result=maxiter tested=150 sat=4 cut checked on 150 S, 0 mismatches maxvar=640 problems=[]
+D12 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b]
+D12 r=2 [9,12] split=True: A=18 result=NO tested=150 sat=0 no cut maxvar=597 problems=[]
+D12: maxiter reached [b-nosplit]
+D12 r=2 [9,12] split=False: A=18 result=maxiter tested=150 sat=0 cut checked on 150 S, 0 mismatches maxvar=978 problems=[]
+D12 order 24: NO (4,2)-Cayley graph with degree in [6,14]  (1 iterations, 1s) [b]
+D12 r=2 [6,14] split=True: A=18 result=NO tested=146 sat=0 no cut maxvar=567 problems=[]
+D12: maxiter reached [b-nosplit]
+D12 r=2 [6,14] split=False: A=18 result=maxiter tested=150 sat=5 cut checked on 150 S, 0 mismatches maxvar=834 problems=[]
+A4xZ2: maxiter reached [b]
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+A4xZ2 r=0 [1,60] split=True: A=15 result=maxiter tested=73 sat=14 cut checked on 150 S, 0 mismatches maxvar=156 problems=[]
+A4xZ2: maxiter reached [b-nosplit]
+A4xZ2 r=0 [1,60] split=False: A=15 result=maxiter tested=150 sat=33 cut checked on 150 S, 0 mismatches maxvar=87 problems=[]
+A4xZ2: maxiter reached [b]
+A4xZ2 r=1 [6,6] split=True: A=15 result=maxiter tested=150 sat=0 cut checked on 150 S, 0 mismatches maxvar=814 problems=[]
+A4xZ2: maxiter reached [b-nosplit]
+A4xZ2 r=1 [6,6] split=False: A=15 result=maxiter tested=150 sat=0 cut checked on 150 S, 0 mismatches maxvar=621 problems=[]
+A4xZ2 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b]
+A4xZ2 r=2 [9,12] split=True: A=15 result=NO tested=150 sat=0 no cut maxvar=594 problems=[]
+A4xZ2: maxiter reached [b-nosplit]
+A4xZ2 r=2 [9,12] split=False: A=15 result=maxiter tested=150 sat=0 cut checked on 150 S, 0 mismatches maxvar=867 problems=[]
+A4xZ2 order 24: NO (4,2)-Cayley graph with degree in [6,14]  (1 iterations, 0s) [b]
+A4xZ2 r=2 [6,14] split=True: A=15 result=NO tested=144 sat=0 no cut maxvar=564 problems=[]
+A4xZ2: maxiter reached [b-nosplit]
+A4xZ2 r=2 [6,14] split=False: A=15 result=maxiter tested=150 sat=0 cut checked on 150 S, 0 mismatches maxvar=801 problems=[]
+Z16 order 16: WITNESS degree 7 S=[5, 6, 7, 8, 9, 10, 11] explicit=True ok (2 it, 0s) [b]
+c found falsified original clause
+Z16 r=0 [1,60] split=True: A=8 result=[5, 6, 7, 8, 9, 10, 11] tested=254 sat=42 cut checked on 256 S, 0 mismatches maxvar=101 problems=[]
+Z16: maxiter reached [b-nosplit]
+Z16 r=0 [1,60] split=False: A=8 result=maxiter tested=256 sat=60 cut checked on 256 S, 0 mismatches maxvar=56 problems=[]
+Z16 order 16: NO (4,1)-Cayley graph with degree in [6,6]  (1 iterations, 0s) [b]
+Z16 r=1 [6,6] split=True: A=8 result=NO tested=256 sat=0 no cut maxvar=287 problems=[]
+Z16: maxiter reached [b-nosplit]
+Z16 r=1 [6,6] split=False: A=8 result=maxiter tested=256 sat=10 cut checked on 256 S, 0 mismatches maxvar=296 problems=[]
+Z16 order 16: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b]
+Z16 r=2 [9,12] split=True: A=8 result=NO tested=256 sat=0 no cut maxvar=299 problems=[]
+Z16 order 16: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b-nosplit]
+Z16 r=2 [9,12] split=False: A=8 result=NO tested=256 sat=0 no cut maxvar=146 problems=[]
+Z16 order 16: NO (4,2)-Cayley graph with degree in [6,14]  (1 iterations, 0s) [b]
+Z16 r=2 [6,14] split=True: A=8 result=NO tested=255 sat=0 no cut maxvar=263 problems=[]
+Z16: maxiter reached [b-nosplit]
+Z16 r=2 [6,14] split=False: A=8 result=maxiter tested=256 sat=15 cut checked on 256 S, 0 mismatches maxvar=305 problems=[]
+Z2xZ2xZ2xZ2 order 16: NO (4,0)-Cayley graph with degree in [1,60]  (1 iterations, 0s) [b]
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+c found falsified original clause
+Z2xZ2xZ2xZ2 r=0 [1,60] split=True: A=15 result=NO tested=130 sat=0 no cut maxvar=108 problems=[]
+Z2xZ2xZ2xZ2: maxiter reached [b-nosplit]
+Z2xZ2xZ2xZ2 r=0 [1,60] split=False: A=15 result=maxiter tested=150 sat=42 cut checked on 150 S, 0 mismatches maxvar=63 problems=[]
+Z2xZ2xZ2xZ2 order 16: NO (4,1)-Cayley graph with degree in [6,6]  (1 iterations, 0s) [b]
+Z2xZ2xZ2xZ2 r=1 [6,6] split=True: A=15 result=NO tested=150 sat=0 no cut maxvar=294 problems=[]
+Z2xZ2xZ2xZ2: maxiter reached [b-nosplit]
+Z2xZ2xZ2xZ2 r=1 [6,6] split=False: A=15 result=maxiter tested=150 sat=1 cut checked on 150 S, 0 mismatches maxvar=349 problems=[]
+Z2xZ2xZ2xZ2 order 16: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b]
+Z2xZ2xZ2xZ2 r=2 [9,12] split=True: A=15 result=NO tested=150 sat=0 no cut maxvar=306 problems=[]
+Z2xZ2xZ2xZ2 order 16: NO (4,2)-Cayley graph with degree in [9,12]  (1 iterations, 0s) [b-nosplit]
+Z2xZ2xZ2xZ2 r=2 [9,12] split=False: A=15 result=NO tested=150 sat=0 no cut maxvar=153 problems=[]
+Z2xZ2xZ2xZ2 order 16: NO (4,2)-Cayley graph with degree in [6,14]  (1 iterations, 0s) [b]
+Z2xZ2xZ2xZ2 r=2 [6,14] split=True: A=15 result=NO tested=139 sat=0 no cut maxvar=270 problems=[]
+Z2xZ2xZ2xZ2: maxiter reached [b-nosplit]
+Z2xZ2xZ2xZ2 r=2 [6,14] split=False: A=15 result=maxiter tested=150 sat=1 cut checked on 150 S, 0 mismatches maxvar=435 problems=[]

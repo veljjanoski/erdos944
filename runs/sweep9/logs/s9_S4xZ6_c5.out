@@ -1,0 +1,5 @@
+S4xZ6 order 144: |Aut|=96 sigma=5 (order 2, class size 1, fp eb2a91b7) |N|=96 atoms=67 lex-perms=47 replayed cuts=26  [0s]
+  S4xZ6 it 50 deg 9 163s
+  S4xZ6 it 100 deg 9 283s
+  S4xZ6 it 150 deg 9 410s
+S4xZ6 order 144: NO (4,2)-Cayley graph with degree in [9,9]  (162 iterations, 423s) [s sigma=5 (order 2, class size 1, fp eb2a91b7)]

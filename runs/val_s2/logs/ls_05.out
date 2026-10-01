@@ -1,0 +1,5 @@
+SL25 order 120 |Aut|=120 atoms=60
+  class 0: order 5, size 24, sigma-atoms 16, |N|=20, fp 669ffece  needed
+  class 1: order 2, size 10, sigma-atoms 36, |N|=12, fp 285c4ba8  needed
+  class 2: order 2, size 15, sigma-atoms 38, |N|=8, fp 86c01954  needed
+  class 3: order 3, size 20, sigma-atoms 22, |N|=12, fp 401b98a6  needed

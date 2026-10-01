@@ -1,0 +1,26 @@
+24 jobs, 0 already finished/skipped, 24 to run
+[2026-09-29 17:07:24] L_Z40_0_9: DONE (3.0 s) PASS lane Z40 r=0 d=9: orbits 20, with nontrivial stabiliser 20, found by sigma-lane 20 (per class [0, 0, 0, 0, 0, 0, 20]); sigma=id finds all orbits exactly on
+[2026-09-29 17:07:25] L_Z15Z4: DONE (4.0 s) PASS lane Z15x|2Z4 r=1 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 0, 0, 1]); sigma=id finds all orbits exactly once: T
+[2026-09-29 17:07:26] L_Z5Z12: DONE (5.1 s) PASS lane Z5x|2Z12 r=1 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 0, 1]); sigma=id finds all orbits exactly once: True
+[2026-09-29 17:07:27] ls_00: DONE (1.0 s)   class 3: order 2, size 15, sigma-atoms 47, |N|=8, fp 18794494  needed
+[2026-09-29 17:07:28] S_S4Z2_1: DONE (3.0 s) PASS same S4xZ2 r=1 d=[6,6]: c WITNESS 1s, s(id) WITNESS 1s
+[2026-09-29 17:07:28] ls_01: DONE (1.0 s)   class 7: order 2, size 18, sigma-atoms 57, |N|=8, fp b238b2cd  needed
+[2026-09-29 17:07:29] ls_02: DONE (1.0 s)   class 7: order 2, size 5, sigma-atoms 43, |N|=16, fp 972bbb9b  needed
+[2026-09-29 17:07:29] ls_03: DONE (1.0 s)   class 3: order 2, size 21, sigma-atoms 54, |N|=16, fp 4c5f933d  needed
+[2026-09-29 17:07:30] L_S4Z2: DONE (9.1 s) PASS lane S4xZ2 r=1 d=6: orbits 3, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0, 0, 0]); sigma=id finds all orbits exactly once: T
+[2026-09-29 17:07:30] L_A5_0_9: DONE (9.1 s) PASS lane A5 r=0 d=9: orbits 1, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0]); sigma=id finds all orbits exactly once: True  [8s]
+[2026-09-29 17:07:30] ls_04: DONE (1.0 s)   class 3: order 5, size 24, sigma-atoms 16, |N|=20, fp ff10c5e8  needed
+[2026-09-29 17:07:30] ls_05: DONE (1.0 s)   class 3: order 3, size 20, sigma-atoms 22, |N|=12, fp 401b98a6  needed
+[2026-09-29 17:07:31] ls_06: DONE (1.0 s)   class 6: order 2, size 15, sigma-atoms 61, |N|=16, fp 527c63b1  needed
+[2026-09-29 17:07:31] ls_07: DONE (1.0 s)   class 3: order 3, size 56, sigma-atoms 66, |N|=12, fp 3a3d36c1  needed
+[2026-09-29 17:07:32] ls_10: DONE (1.0 s)   class 3: order 2, size 21, sigma-atoms 109, |N|=16, fp f090db43  needed
+[2026-09-29 17:07:32] ls_11: DONE (1.0 s)   class 7: order 2, size 5, sigma-atoms 42, |N|=16, fp 8a27a786  needed
+[2026-09-29 17:07:33] ls_12: DONE (1.0 s)   class 8: order 2, size 15, sigma-atoms 42, |N|=16, fp d6665f85  needed
+[2026-09-29 17:07:33] ls_13: DONE (1.0 s)   class 8: order 2, size 15, sigma-atoms 60, |N|=16, fp 0b54ab43  needed
+[2026-09-29 17:07:34] ls_14: DONE (1.0 s)   class 5: order 2, size 6, sigma-atoms 45, |N|=16, fp fe708593  needed
+[2026-09-29 17:07:34] ls_15: DONE (1.0 s)   class 11: order 2, size 6, sigma-atoms 57, |N|=16, fp 888a9c34  needed
+[2026-09-29 17:07:35] ls_08: DONE (5.1 s)   class 4: order 2, size 45, sigma-atoms 114, |N|=32, fp b06c22b7  needed
+[2026-09-29 17:07:37] L_D20_0_9: DONE (16.3 s) PASS lane D20 r=0 d=9: orbits 98, with nontrivial stabiliser 20, found by sigma-lane 20 (per class [0, 0, 0, 0, 0, 0, 0, 20]); sigma=id finds all orbits exactly
+[2026-09-29 17:07:40] ls_09: DONE (10.1 s)   class 4: order 2, size 63, sigma-atoms 159, |N|=24, fp 570cb65b  needed
+[2026-09-29 17:08:17] S_Z80_2: DONE (53.3 s) PASS same Z80 r=2 d=[10,10]: c NO 42s, s(id) NO 10s
+runner finished

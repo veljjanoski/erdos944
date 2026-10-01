@@ -1,0 +1,16 @@
+13 jobs, 0 already finished/skipped, 13 to run
+[2026-09-30 11:20:33] cube_s10_A6_c1: DONE (2955.9 s) A6 order 360: NO (4,2)-Cayley graph with degree in [10,10]  (6328 iterations, 2955s) [s sigma=1 (order 2, class size 36, fp afa9c399) cubes=6328]
+[2026-09-30 12:11:08] cube_s10_A6_c2: DONE (2509.1 s) A6 order 360: NO (4,2)-Cayley graph with degree in [10,10]  (6556 iterations, 2509s) [s sigma=2 (order 2, class size 30, fp ec42b8b2) cubes=6555]
+[2026-09-30 13:08:16] cube_s10_A6_c4: DONE (3428.5 s) A6 order 360: NO (4,2)-Cayley graph with degree in [10,10]  (6555 iterations, 3428s) [s sigma=4 (order 2, class size 45, fp b06c22b7) cubes=6555]
+[2026-09-30 14:35:08] cube_s9_PSL27xZ2_c3: DONE (14630.3 s) PSL27xZ2 order 336: NO (4,2)-Cayley graph with degree in [9,9]  (5998 iterations, 14630s) [s sigma=3 (order 2, class size 21, fp f090db43) cubes=5995]
+[2026-09-30 16:43:38] cube_s9_PGL27_c0: DONE (22340.7 s) PGL27 order 336: NO (4,2)-Cayley graph with degree in [9,9]  (6330 iterations, 22340s) [s sigma=0 (order 2, class size 21, fp d9420028) cubes=6328]
+[2026-09-30 16:48:12] cube_s9_PSL27xZ2_c1: DONE (22614.9 s) PSL27xZ2 order 336: NO (4,2)-Cayley graph with degree in [9,9]  (6219 iterations, 22614s) [s sigma=1 (order 2, class size 28, fp 837a75d4) cubes=6216]
+[2026-09-30 16:58:34] cube_s9_PGL27_c1: DONE (23236.3 s) PGL27 order 336: NO (4,2)-Cayley graph with degree in [9,9]  (6217 iterations, 23236s) [s sigma=1 (order 2, class size 28, fp 1959e073) cubes=6216]
+[2026-09-30 17:58:00] cube_s10_PGL27_c1: DONE (26802.4 s) PGL27 order 336: NO (4,2)-Cayley graph with degree in [10,10]  (6217 iterations, 26801s) [s sigma=1 (order 2, class size 28, fp 1959e073) cubes=6216]
+[2026-09-30 18:28:30] cube_s10_PGL27_c0: DONE (28632.5 s) PGL27 order 336: NO (4,2)-Cayley graph with degree in [10,10]  (6328 iterations, 28631s) [s sigma=0 (order 2, class size 21, fp d9420028) cubes=6328]
+[2026-09-30 19:16:26] cube_s9_PSL28_c4: KILLED (31508.1 s)   12720 cubes, 0 already done
+[2026-09-30 19:16:26] cube_s10_PSL28_c4: KILLED (21869.5 s)   12720 cubes, 0 already done
+[2026-09-30 19:16:26] cube_s10_PSL27xZ2_c1: KILLED (16877.9 s)   6216 cubes, 0 already done
+[2026-09-30 19:16:26] cube_s10_PSL27xZ2_c3: KILLED (9167.5 s)   5995 cubes, 0 already done
+STOPNOW: all jobs killed
+runner finished

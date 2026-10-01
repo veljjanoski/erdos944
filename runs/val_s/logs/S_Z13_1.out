@@ -1,0 +1,4 @@
+Z13 order 13: NO (4,1)-Cayley graph with degree in [6,6]  (1 iterations, 0s) [c]
+Z13 order 13: |Aut|=12 sigma=id |N|=12 atoms=6 lex-perms=5 replayed cuts=0  [0s]
+Z13 order 13: NO (4,1)-Cayley graph with degree in [6,6]  (1 iterations, 0s) [s sigma=id]
+PASS same Z13 r=1 d=[6,6]: c NO 0s, s(id) NO 0s

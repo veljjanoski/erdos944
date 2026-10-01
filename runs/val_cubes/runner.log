@@ -1,0 +1,17 @@
+15 jobs, 0 already finished/skipped, 15 to run
+[2026-09-30 10:15:39] C_Z13_6: DONE (1.0 s) PASS lane (cubes) Z13 r=0 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 1]); sigma=id finds all orbits exactly once: True
+[2026-09-30 10:15:41] C_Z40_9: DONE (3.1 s) PASS lane (cubes) Z40 r=0 d=9: orbits 20, with nontrivial stabiliser 20, found by sigma-lane 20 (per class [0, 0, 0, 0, 0, 0, 20]); sigma=id finds all orbits ex
+[2026-09-30 10:15:42] C_Z15Z4: DONE (4.1 s) PASS lane (cubes) Z15x|2Z4 r=1 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 0, 0, 1]); sigma=id finds all orbits exactly
+[2026-09-30 10:15:43] C_Z5Z12: DONE (5.1 s) PASS lane (cubes) Z5x|2Z12 r=1 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 0, 1]); sigma=id finds all orbits exactly on
+[2026-09-30 10:15:44] M_A5Z2_0: DONE (1.0 s) PASS cmp A5xZ2 r=2 d=9 sigma=0: plain NO 0s, cubes NO 0s
+[2026-09-30 10:15:46] C_S4Z2: DONE (8.1 s) PASS lane (cubes) S4xZ2 r=1 d=6: orbits 3, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0, 0, 0]); sigma=id finds all orbits exactly
+[2026-09-30 10:15:46] C_A5_9: DONE (8.1 s) PASS lane (cubes) A5 r=0 d=9: orbits 1, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0]); sigma=id finds all orbits exactly once: Tr
+[2026-09-30 10:15:47] M_A5Z2_10: DONE (1.0 s) PASS cmp A5xZ2 r=2 d=10 sigma=0: plain NO 0s, cubes NO 0s
+[2026-09-30 10:15:47] M_PSL27: DONE (1.0 s) PASS cmp PSL27 r=2 d=9 sigma=0: plain NO 0s, cubes NO 0s
+[2026-09-30 10:15:49] C_D20_10: DONE (11.2 s) PASS lane (cubes) D20 r=0 d=10: orbits 81, with nontrivial stabiliser 15, found by sigma-lane 15 (per class [0, 0, 0, 0, 0, 0, 0, 15]); sigma=id finds all orbit
+[2026-09-30 10:15:50] L_D20_10: DONE (11.1 s) PASS lane D20 r=0 d=10: orbits 81, with nontrivial stabiliser 15, found by sigma-lane 15 (per class [0, 0, 0, 0, 0, 0, 0, 15]); sigma=id finds all orbits exactl
+[2026-09-30 10:15:51] C_D20_9: DONE (13.2 s) PASS lane (cubes) D20 r=0 d=9: orbits 98, with nontrivial stabiliser 20, found by sigma-lane 20 (per class [0, 0, 0, 0, 0, 0, 0, 20]); sigma=id finds all orbits
+[2026-09-30 10:16:09] M_A5Z2_1: DONE (25.1 s) PASS cmp A5xZ2 r=2 d=9 sigma=1: plain NO 13s, cubes NO 12s
+[2026-09-30 10:18:33] M_PSL28: DONE (171.2 s) PASS cmp PSL28 r=2 d=9 sigma=0: plain NO 114s, cubes NO 57s
+[2026-09-30 10:29:48] M_S4S3: DONE (847.5 s) PASS cmp S4xS3 r=2 d=9 sigma=2: plain NO 457s, cubes NO 390s
+runner finished

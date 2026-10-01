@@ -1,0 +1,14 @@
+16 jobs, 0 already finished/skipped, 16 to run
+[2026-09-29 19:49:51] t4h_s9_A6_c2: DONE (1477.9 s) A6 order 360: NO (4,2)-Cayley graph with degree in [9,9]  (1 iterations, 1477s) [s sigma=2 (order 2, class size 30, fp ec42b8b2)]
+[2026-09-29 19:57:03] t4h_s9_A6_c4: DONE (1910.2 s) A6 order 360: NO (4,2)-Cayley graph with degree in [9,9]  (1 iterations, 1909s) [s sigma=4 (order 2, class size 45, fp b06c22b7)]
+[2026-09-29 20:14:24] t4h_s9_A6_c1: DONE (2950.8 s) A6 order 360: NO (4,2)-Cayley graph with degree in [9,9]  (2 iterations, 2950s) [s sigma=1 (order 2, class size 36, fp afa9c399)]
+[2026-09-29 21:07:44] t4h_s9_PGL27_c0: KILLED (6151.0 s) PGL27 order 336: |Aut|=336 sigma=0 (order 2, class size 21, fp d9420028) |N|=16 atoms=112 lex-perms=7 replayed cuts=40  [1s]
+[2026-09-29 21:07:44] t4h_s9_PGL27_c1: KILLED (6151.0 s) PGL27 order 336: |Aut|=336 sigma=1 (order 2, class size 28, fp 1959e073) |N|=12 atoms=111 lex-perms=5 replayed cuts=40  [1s]
+[2026-09-29 21:07:44] t4h_s9_PSL28_c4: KILLED (6151.0 s) PSL28 order 504: |Aut|=1512 sigma=4 (order 2, class size 63, fp 570cb65b) |N|=24 atoms=159 lex-perms=11 replayed cuts=7  [6s]
+[2026-09-29 21:07:44] t4h_s9_PSL27xZ2_c1: KILLED (6151.0 s) PSL27xZ2 order 336: |Aut|=336 sigma=1 (order 2, class size 28, fp 837a75d4) |N|=12 atoms=111 lex-perms=5 replayed cuts=92  [1s]
+[2026-09-29 21:07:44] t4h_s9_PSL27xZ2_c3: KILLED (6151.0 s) PSL27xZ2 order 336: |Aut|=336 sigma=3 (order 2, class size 21, fp f090db43) |N|=16 atoms=109 lex-perms=7 replayed cuts=92  [1s]
+[2026-09-29 21:07:44] t4h_s10_PGL27_c0: KILLED (4673.2 s) PGL27 order 336: |Aut|=336 sigma=0 (order 2, class size 21, fp d9420028) |N|=16 atoms=112 lex-perms=7 replayed cuts=47  [1s]
+[2026-09-29 21:07:44] t4h_s10_PGL27_c1: KILLED (4240.9 s) PGL27 order 336: |Aut|=336 sigma=1 (order 2, class size 28, fp 1959e073) |N|=12 atoms=111 lex-perms=5 replayed cuts=49  [1s]
+[2026-09-29 21:07:44] t4h_s10_A6_c1: KILLED (3200.2 s) A6 order 360: |Aut|=1440 sigma=1 (order 2, class size 36, fp afa9c399) |N|=40 atoms=112 lex-perms=19 replayed cuts=45  [4s]
+STOPNOW: all jobs killed
+runner finished

@@ -1,0 +1,5 @@
+3 jobs, 0 already finished/skipped, 3 to run
+[2026-09-29 16:44:42] cl_Z5Z12: DONE (32.0 s) [Z5x|2Z12#0] RESULT: no (4,2)-graph contains this graph (exact)
+[2026-09-29 16:44:47] cl_Z15Z4: DONE (37.0 s) [Z15x|2Z4#0] RESULT: no (4,2)-graph contains this graph (exact)
+[2026-09-29 16:44:53] cl_S4xZ2: DONE (43.1 s) [S4xZ2#2] RESULT: no (4,2)-graph contains this graph (exact)
+runner finished

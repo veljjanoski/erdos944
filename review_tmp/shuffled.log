@@ -1,0 +1,121 @@
+# Z7 identity index 2
+[shuf] Z7         r=0 deg[3,3] cegar=NO it=1 (0.0s) | ref: 0 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z7         r=0 deg[4,4] cegar=WITNESS deg 4 it=1 (0.0s) | ref: 3 S, 3 G-e 3col, 3 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z7         r=0 deg[5,5] cegar=NO it=1 (0.0s) | ref: 0 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z7         r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 1 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z7         r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 1 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# Z10 identity index 6
+[shuf] Z10        r=0 deg[3,3] cegar=NO it=4 (0.0s) | ref: 4 S, 4 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z10        r=0 deg[4,4] cegar=WITNESS deg 4 it=1 (0.0s) | ref: 6 S, 5 G-e 3col, 2 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z10        r=0 deg[5,5] cegar=WITNESS deg 5 it=1 (0.0s) | ref: 6 S, 3 G-e 3col, 2 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z10        r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 4 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z10        r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 4 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z10        r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 1 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z10        r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 9 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# Z13 identity index 5
+[shuf] Z13        r=0 deg[3,3] cegar=NO it=1 (0.0s) | ref: 0 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z13        r=0 deg[4,4] cegar=WITNESS deg 4 it=2 (0.0s) | ref: 15 S, 15 G-e 3col, 9 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z13        r=0 deg[5,5] cegar=NO it=1 (0.0s) | ref: 0 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z13        r=0 deg[6,6] cegar=WITNESS deg 6 it=1 (0.0s) | ref: 20 S, 6 G-e 3col, 6 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z13        r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 0 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z13        r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 15 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z13        r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 35 S, 6 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z13        r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 7 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# Z16 identity index 13
+[shuf] Z16        r=0 deg[3,3] cegar=NO it=7 (0.0s) | ref: 7 S, 6 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z16        r=0 deg[4,4] cegar=WITNESS deg 4 it=5 (0.0s) | ref: 21 S, 19 G-e 3col, 4 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z16        r=0 deg[5,5] cegar=WITNESS deg 5 it=2 (0.0s) | ref: 21 S, 12 G-e 3col, 8 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z16        r=0 deg[6,6] cegar=WITNESS deg 6 it=1 (0.0s) | ref: 35 S, 10 G-e 3col, 4 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z16        r=0 deg[7,7] cegar=WITNESS deg 7 it=1 (0.0s) | ref: 35 S, 4 G-e 3col, 4 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z16        r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 35 S, 1 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z16        r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 105 S, 15 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z16        r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 84 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# D5 identity index 9
+[shuf] D5         r=0 deg[3,3] cegar=NO it=9 (0.0s) | ref: 20 S, 20 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D5         r=0 deg[4,4] cegar=WITNESS deg 4 it=1 (0.0s) | ref: 26 S, 25 G-e 3col, 10 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D5         r=0 deg[5,5] cegar=WITNESS deg 5 it=1 (0.0s) | ref: 26 S, 11 G-e 3col, 10 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D5         r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 20 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] D5         r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 12 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] D5         r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 5 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] D5         r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 37 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# D8 identity index 10
+[shuf] D8         r=0 deg[3,3] cegar=NO it=45 (0.0s) | ref: 111 S, 106 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D8         r=0 deg[4,4] cegar=WITNESS deg 4 it=2 (0.0s) | ref: 237 S, 195 G-e 3col, 32 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D8         r=0 deg[5,5] cegar=WITNESS deg 5 it=7 (0.0s) | ref: 405 S, 208 G-e 3col, 64 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D8         r=0 deg[6,6] cegar=WITNESS deg 6 it=1 (0.0s) | ref: 571 S, 112 G-e 3col, 48 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D8         r=0 deg[7,7] cegar=WITNESS deg 7 it=1 (0.0s) | ref: 675 S, 32 G-e 3col, 16 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D8         r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 675 S, 3 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] D8         r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 1921 S, 147 G-e 3col, 0 witnesses, split-feasible=no (0.1s)  OK
+[shuf] D8         r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 1324 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# Dic3 identity index 1
+[shuf] Dic3       r=0 deg[3,3] cegar=NO it=2 (0.0s) | ref: 5 S, 2 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Dic3       r=0 deg[4,4] cegar=NO it=6 (0.0s) | ref: 10 S, 10 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Dic3       r=0 deg[5,5] cegar=NO it=1 (0.0s) | ref: 10 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Dic3       r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 10 S, 10 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Dic3       r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 10 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Dic3       r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 5 S, 3 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Dic3       r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 25 S, 13 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# A4 identity index 4
+[shuf] A4         r=0 deg[3,3] cegar=NO it=9 (0.0s) | ref: 13 S, 12 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] A4         r=0 deg[4,4] cegar=NO it=13 (0.0s) | ref: 18 S, 18 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] A4         r=0 deg[5,5] cegar=NO it=1 (0.0s) | ref: 22 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] A4         r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 22 S, 4 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] A4         r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 18 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] A4         r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 13 S, 1 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] A4         r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 53 S, 5 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# Z8x|3Z2 identity index 8
+[shuf] Z8x|3Z2    r=0 deg[3,3] cegar=NO it=16 (0.0s) | ref: 35 S, 30 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z8x|3Z2    r=0 deg[4,4] cegar=WITNESS deg 4 it=7 (0.0s) | ref: 65 S, 43 G-e 3col, 8 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z8x|3Z2    r=0 deg[5,5] cegar=NO it=7 (0.0s) | ref: 101 S, 32 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z8x|3Z2    r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 135 S, 24 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z8x|3Z2    r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 155 S, 8 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z8x|3Z2    r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 155 S, 3 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z8x|3Z2    r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 445 S, 35 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z8x|3Z2    r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 336 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# Z2xZ2xZ4 identity index 4
+[shuf] Z2xZ2xZ4   r=0 deg[3,3] cegar=NO it=1 (0.0s) | ref: 63 S, 52 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z2xZ2xZ4   r=0 deg[4,4] cegar=NO it=1 (0.0s) | ref: 125 S, 73 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z2xZ2xZ4   r=0 deg[5,5] cegar=NO it=1 (0.0s) | ref: 203 S, 72 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z2xZ2xZ4   r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 277 S, 52 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z2xZ2xZ4   r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 323 S, 24 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z2xZ2xZ4   r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 323 S, 7 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z2xZ2xZ4   r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 923 S, 83 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z2xZ2xZ4   r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 668 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# D4xZ2 identity index 3
+[shuf] D4xZ2      r=0 deg[3,3] cegar=NO it=26 (0.0s) | ref: 187 S, 172 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D4xZ2      r=0 deg[4,4] cegar=NO it=51 (0.0s) | ref: 441 S, 301 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] D4xZ2      r=0 deg[5,5] cegar=NO it=13 (0.1s) | ref: 803 S, 232 G-e 3col, 0 witnesses, split-feasible=yes (0.1s)  OK
+[shuf] D4xZ2      r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 1177 S, 116 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] D4xZ2      r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 1419 S, 40 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] D4xZ2      r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 1419 S, 7 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] D4xZ2      r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 4015 S, 163 G-e 3col, 0 witnesses, split-feasible=no (0.1s)  OK
+[shuf] D4xZ2      r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 2608 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# Z5x|2Z4 identity index 11
+[shuf] Z5x|2Z4    r=0 deg[3,3] cegar=NO it=31 (0.0s) | ref: 45 S, 40 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z5x|2Z4    r=0 deg[4,4] cegar=NO it=47 (0.0s) | ref: 96 S, 65 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z5x|2Z4    r=0 deg[5,5] cegar=NO it=11 (0.0s) | ref: 176 S, 21 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] Z5x|2Z4    r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 280 S, 20 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z5x|2Z4    r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 392 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z5x|2Z4    r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 490 S, 5 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z5x|2Z4    r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 1162 S, 25 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] Z5x|2Z4    r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 1974 S, 1 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# S3xZ3 identity index 17
+[shuf] S3xZ3      r=0 deg[3,3] cegar=NO it=19 (0.0s) | ref: 22 S, 22 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] S3xZ3      r=0 deg[4,4] cegar=NO it=24 (0.0s) | ref: 42 S, 42 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] S3xZ3      r=0 deg[5,5] cegar=NO it=13 (0.0s) | ref: 70 S, 66 G-e 3col, 0 witnesses, split-feasible=yes (0.0s)  OK
+[shuf] S3xZ3      r=0 deg[6,6] cegar=NO it=1 (0.0s) | ref: 98 S, 86 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] S3xZ3      r=0 deg[7,7] cegar=NO it=1 (0.0s) | ref: 126 S, 66 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] S3xZ3      r=0 deg[8,8] cegar=NO it=1 (0.0s) | ref: 140 S, 63 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+[shuf] S3xZ3      r=1 deg[6,8] cegar=NO it=1 (0.0s) | ref: 364 S, 215 G-e 3col, 0 witnesses, split-feasible=no (0.1s)  OK
+[shuf] S3xZ3      r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 434 S, 63 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+# S4xZ2 identity index 27, known S is (4,1) in reference: True
+[shuf+known] S4xZ2      r=1 deg[6,8] cegar=WITNESS deg 6 it=1 (0.4s) | ref: 129 S, 30 G-e 3col, 2 witnesses, split-feasible=yes (0.1s)  OK
+[shuf+known] S4xZ2      r=1 deg[6,8] cegar=WITNESS deg 6 it=1 (0.4s) | ref: 239 S, 90 G-e 3col, 1 witnesses, split-feasible=yes (0.1s)  OK
+[shuf+known] S4xZ2      r=1 deg[6,8] cegar=WITNESS deg 6 it=2 (0.8s) | ref: 998 S, 292 G-e 3col, 2 witnesses, split-feasible=yes (0.5s)  OK
+[shuf+known] S4xZ2      r=1 deg[6,8] cegar=WITNESS deg 6 it=8 (0.5s) | ref: 923 S, 346 G-e 3col, 1 witnesses, split-feasible=yes (0.4s)  OK
+# Z5x|2Z12 identity index 39, known S is (4,1) in reference: True
+[shuf+known] Z5x|2Z12   r=1 deg[6,8] cegar=WITNESS deg 6 it=6 (1.2s) | ref: 55 S, 23 G-e 3col, 1 witnesses, split-feasible=yes (0.1s)  OK
+[shuf+known] Z5x|2Z12   r=1 deg[6,8] cegar=WITNESS deg 6 it=5 (1.0s) | ref: 55 S, 20 G-e 3col, 1 witnesses, split-feasible=yes (0.1s)  OK
+[shuf+known] Z5x|2Z12   r=1 deg[6,8] cegar=WITNESS deg 6 it=2 (1.3s) | ref: 215 S, 93 G-e 3col, 1 witnesses, split-feasible=yes (0.2s)  OK
+[shuf+known] Z5x|2Z12   r=1 deg[6,8] cegar=WITNESS deg 6 it=1 (1.0s) | ref: 196 S, 75 G-e 3col, 1 witnesses, split-feasible=yes (0.1s)  OK
+TOTAL problems: 0 10s

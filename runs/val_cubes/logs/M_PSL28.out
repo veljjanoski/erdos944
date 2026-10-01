@@ -1,0 +1,15 @@
+PSL28 order 504: |Aut|=1512 sigma=0 (order 3, class size 56, fp 5b14c516) |N|=54 atoms=97 lex-perms=17 replayed cuts=0  [6s]
+PSL28 order 504: NO (4,2)-Cayley graph with degree in [9,9]  (2 iterations, 114s) [s sigma=0 (order 3, class size 56, fp 5b14c516) nocuts]
+PSL28 order 504: |Aut|=1512 sigma=0 (order 3, class size 56, fp 5b14c516) |N|=54 atoms=97 lex-perms=17 replayed cuts=0  [8s]
+  4753 cubes, 0 already done
+  PSL28 cubes done 500/4753, it 501, 46s
+  PSL28 cubes done 1000/4753, it 1001, 50s
+  PSL28 cubes done 1500/4753, it 1501, 51s
+  PSL28 cubes done 2000/4753, it 2001, 51s
+  PSL28 cubes done 2500/4753, it 2501, 52s
+  PSL28 cubes done 3000/4753, it 3001, 53s
+  PSL28 cubes done 3500/4753, it 3501, 53s
+  PSL28 cubes done 4000/4753, it 4001, 56s
+  PSL28 cubes done 4500/4753, it 4501, 57s
+PSL28 order 504: NO (4,2)-Cayley graph with degree in [9,9]  (4754 iterations, 57s) [s sigma=0 (order 3, class size 56, fp 5b14c516) nocuts cubes=4753]
+PASS cmp PSL28 r=2 d=9 sigma=0: plain NO 114s, cubes NO 57s

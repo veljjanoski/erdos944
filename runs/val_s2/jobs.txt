@@ -1,0 +1,24 @@
+L_Z5Z12	python ../../validate_s.py lane Z5x|2Z12 1 6
+L_Z15Z4	python ../../validate_s.py lane Z15x|2Z4 1 6
+L_S4Z2	python ../../validate_s.py lane S4xZ2 1 6
+L_D20_0_9	python ../../validate_s.py lane D20 0 9
+L_Z40_0_9	python ../../validate_s.py lane Z40 0 9
+L_A5_0_9	python ../../validate_s.py lane A5 0 9
+S_Z80_2	python ../../validate_s.py same Z80 2 10 10
+S_S4Z2_1	python ../../validate_s.py same S4xZ2 1 6 6
+ls_00	python ../../cegar944s.py A5xZ2 --list 10
+ls_01	python ../../cegar944s.py S4xS3 --list 10
+ls_02	python ../../cegar944s.py Z5x|2Z4xZ6 --list 10
+ls_03	python ../../cegar944s.py PSL27 --list 10
+ls_04	python ../../cegar944s.py S5 --list 10
+ls_05	python ../../cegar944s.py SL25 --list 10
+ls_06	python ../../cegar944s.py A5xZ3 --list 10
+ls_07	python ../../cegar944s.py PGL27 --list 10
+ls_08	python ../../cegar944s.py A6 --list 10
+ls_09	python ../../cegar944s.py PSL28 --list 10
+ls_10	python ../../cegar944s.py PSL27xZ2 --list 10
+ls_11	python ../../cegar944s.py Z5x|2Z12xZ2 --list 10
+ls_12	python ../../cegar944s.py Z15x|2Z4xZ2 --list 10
+ls_13	python ../../cegar944s.py Z15x|2Z4xZ3 --list 10
+ls_14	python ../../cegar944s.py S4xZ5 --list 10
+ls_15	python ../../cegar944s.py S4xZ6 --list 10

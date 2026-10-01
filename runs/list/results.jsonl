@@ -1,0 +1,16 @@
+{"id": "ls_00", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 2, size 15, sigma-atoms 47, |N|=8", "time": "2026-09-29 16:55:45"}
+{"id": "ls_01", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 7: order 2, size 18, sigma-atoms 57, |N|=8", "time": "2026-09-29 16:55:45"}
+{"id": "ls_02", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 7: order 2, size 5, sigma-atoms 43, |N|=16", "time": "2026-09-29 16:55:45"}
+{"id": "ls_03", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 2, size 21, sigma-atoms 54, |N|=16", "time": "2026-09-29 16:55:45"}
+{"id": "ls_04", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 5, size 24, sigma-atoms 16, |N|=20", "time": "2026-09-29 16:55:45"}
+{"id": "ls_05", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 3, size 20, sigma-atoms 22, |N|=12", "time": "2026-09-29 16:55:45"}
+{"id": "ls_06", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 6: order 2, size 15, sigma-atoms 61, |N|=16", "time": "2026-09-29 16:55:46"}
+{"id": "ls_07", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 3, size 56, sigma-atoms 66, |N|=12", "time": "2026-09-29 16:55:46"}
+{"id": "ls_10", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 2, size 21, sigma-atoms 109, |N|=16", "time": "2026-09-29 16:55:46"}
+{"id": "ls_11", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 7: order 2, size 5, sigma-atoms 42, |N|=16", "time": "2026-09-29 16:55:46"}
+{"id": "ls_12", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 8: order 2, size 15, sigma-atoms 42, |N|=16", "time": "2026-09-29 16:55:47"}
+{"id": "ls_13", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 8: order 2, size 15, sigma-atoms 60, |N|=16", "time": "2026-09-29 16:55:47"}
+{"id": "ls_14", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 5: order 2, size 6, sigma-atoms 45, |N|=16", "time": "2026-09-29 16:55:47"}
+{"id": "ls_15", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 11: order 2, size 6, sigma-atoms 57, |N|=16", "time": "2026-09-29 16:55:48"}
+{"id": "ls_08", "status": "DONE", "rc": 0, "seconds": 5.1, "last": "  class 4: order 2, size 45, sigma-atoms 114, |N|=32", "time": "2026-09-29 16:55:51"}
+{"id": "ls_09", "status": "DONE", "rc": 0, "seconds": 9.1, "last": "  class 4: order 2, size 63, sigma-atoms 159, |N|=24", "time": "2026-09-29 16:55:55"}

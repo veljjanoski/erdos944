@@ -1,0 +1,20 @@
+Z16        r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 84 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z18        r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 210 S, 9 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z20        r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 462 S, 1 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z21        r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 462 S, 28 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z22        r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 924 S, 12 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z24        r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 1716 S, 106 G-e 3col, 0 witnesses, split-feasible=no (0.1s)  OK
+Dic4       r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 84 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Dic5       r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 462 S, 1 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Dic6       r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 1716 S, 288 G-e 3col, 0 witnesses, split-feasible=no (0.2s)  OK
+Z7x|2Z3    r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 462 S, 28 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+S3xZ3      r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 434 S, 63 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z2xZ8      r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 168 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z4xZ4      r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 168 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z2xZ2xZ4   r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 668 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Dic2xZ2    r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 168 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z3xZ6      r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 210 S, 33 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z2xZ10     r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 966 S, 9 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z3x|2Z8    r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 1716 S, 240 G-e 3col, 0 witnesses, split-feasible=no (0.2s)  OK
+D8         r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 1324 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+TOTAL problems: 0

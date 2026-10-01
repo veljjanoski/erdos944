@@ -1,0 +1,9 @@
+S4xZ2 order 48: NO (4,2)-Cayley graph with degree in [10,10]  (3490 iterations, 2225s)
+Z5x|2Z12 order 60: NO (4,2)-Cayley graph with degree in [10,10]  (758 iterations, 410s)
+Z60 order 60: NO (4,2)-Cayley graph with degree in [10,10]  (1117 iterations, 620s)
+D24 order 48: NO (4,2)-Cayley graph with degree in [10,10]  (5001 iterations, 5523s)
+D30: TIMEOUT after 10800 s
+Z2xZ30 order 60: NO (4,2)-Cayley graph with degree in [10,10]  (1984 iterations, 2836s)
+Z9x|2Z6 order 54: NO (4,2)-Cayley graph with degree in [10,10]  (937 iterations, 432s)
+Z16x|3Z4 order 64: NO (4,2)-Cayley graph with degree in [10,10]  (1546 iterations, 1269s)
+Z64 order 64: NO (4,2)-Cayley graph with degree in [10,10]  (1689 iterations, 1194s)

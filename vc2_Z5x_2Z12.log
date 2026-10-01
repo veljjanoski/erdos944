@@ -1,0 +1,4 @@
+  Z5x|2Z12 it 50 deg 6 9s
+Z5x|2Z12 order 60: NO (4,1)-Cayley graph with degree in [6,6]  (105 iterations, 58s) [c-nosymm]
+Z5x|2Z12 order 60: NO (4,1)-Cayley graph with degree in [6,6]  (12 iterations, 2s) [c]
+OK Z5x|2Z12: |Aut|=40 all witnesses 20 in 1 orbits; symmetry-broken search found 1, hits per orbit [1]  60s

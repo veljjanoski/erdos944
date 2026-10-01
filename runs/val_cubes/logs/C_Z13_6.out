@@ -1,0 +1,18 @@
+Z13 order 13: NO (4,0)-Cayley graph with degree in [6,6]  (2 iterations, 0s) [c]
+Z13 order 13: |Aut|=12 sigma=0 (order 3, class size 1, fp 8b3f498d) |N|=12 atoms=2 lex-perms=1 replayed cuts=0  [0s]
+  3 cubes, 0 already done
+Z13 order 13: NO (4,0)-Cayley graph with degree in [6,6]  (3 iterations, 0s) [s sigma=0 (order 3, class size 1, fp 8b3f498d) nocuts cubes=3]
+Z13 order 13: |Aut|=12 sigma=1 (order 3, class size 1, fp fcef8f06) |N|=12 atoms=2 lex-perms=1 replayed cuts=0  [0s]
+  3 cubes, 0 already done
+Z13 order 13: NO (4,0)-Cayley graph with degree in [6,6]  (3 iterations, 0s) [s sigma=1 (order 3, class size 1, fp fcef8f06) nocuts cubes=3]
+Z13 order 13: |Aut|=12 sigma=2 (order 2, class size 1, fp a1e1854c) |N|=12 atoms=6 lex-perms=5 replayed cuts=0  [0s]
+  21 cubes, 0 already done
+Z13 order 13: CANDIDATE (4,0) degree 6 S=[4, 5, 6, 7, 8, 9] S_idx=[4, 5, 6, 7, 8, 9] (16 it, 0s) [s sigma=2 (order 2, class size 1, fp a1e1854c) nocuts]
+Z13 order 13: WITNESS (4,0) degree 6 S=[4, 5, 6, 7, 8, 9] explicit=True ok (16 it, 0s) [s sigma=2 (order 2, class size 1, fp a1e1854c) nocuts]
+c found falsified original clause
+Z13 order 13: ENUM DONE: 1 (4,0) witness(es) with degree in [6,6]  (22 iterations, 0s) [s sigma=2 (order 2, class size 1, fp a1e1854c) nocuts cubes=21]
+Z13 order 13: |Aut|=12 sigma=id |N|=12 atoms=6 lex-perms=5 replayed cuts=0  [0s]
+Z13 order 13: CANDIDATE (4,0) degree 6 S=[4, 5, 6, 7, 8, 9] S_idx=[4, 5, 6, 7, 8, 9] (1 it, 0s) [s sigma=id nocuts]
+Z13 order 13: WITNESS (4,0) degree 6 S=[4, 5, 6, 7, 8, 9] explicit=True ok (1 it, 0s) [s sigma=id nocuts]
+Z13 order 13: ENUM DONE: 1 (4,0) witness(es) with degree in [6,6]  (2 iterations, 0s) [s sigma=id nocuts]
+PASS lane (cubes) Z13 r=0 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 1]); sigma=id finds all orbits exactly once: True  [0s]

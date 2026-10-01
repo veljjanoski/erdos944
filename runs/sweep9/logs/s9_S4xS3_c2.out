@@ -1,0 +1,4 @@
+S4xS3 order 144: |Aut|=144 sigma=2 (order 2, class size 3, fp 3819553c) |N|=48 atoms=67 lex-perms=23 replayed cuts=4  [0s]
+  S4xS3 it 50 deg 9 105s
+  S4xS3 it 100 deg 9 370s
+S4xS3 order 144: NO (4,2)-Cayley graph with degree in [9,9]  (144 iterations, 806s) [s sigma=2 (order 2, class size 3, fp 3819553c)]

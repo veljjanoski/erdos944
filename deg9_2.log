@@ -1,0 +1,6 @@
+c found falsified original clause
+Z2xZ30 order 60: NO (4,2)-Cayley graph with degree in [9,9]  (1356 iterations, 679s)
+Z9x|2Z6 order 54: NO (4,2)-Cayley graph with degree in [9,9]  (674 iterations, 296s)
+Z16x|3Z4 order 64: NO (4,2)-Cayley graph with degree in [9,9]  (118 iterations, 25s)
+Z64 order 64: NO (4,2)-Cayley graph with degree in [9,9]  (47 iterations, 13s)
+Z66 order 66: NO (4,2)-Cayley graph with degree in [9,9]  (120 iterations, 35s)

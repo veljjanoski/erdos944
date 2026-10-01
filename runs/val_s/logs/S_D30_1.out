@@ -1,0 +1,38 @@
+  D30 it 50 deg 6 4s
+  D30 it 100 deg 6 9s
+  D30 it 150 deg 6 15s
+  D30 it 200 deg 6 22s
+  D30 it 250 deg 6 29s
+  D30 it 300 deg 6 32s
+  D30 it 350 deg 6 36s
+  D30 it 400 deg 6 40s
+  D30 it 450 deg 6 46s
+  D30 it 500 deg 6 50s
+  D30 it 550 deg 6 53s
+  D30 it 600 deg 6 57s
+  D30 it 650 deg 6 61s
+  D30 it 700 deg 6 67s
+  D30 it 750 deg 6 75s
+  D30 it 800 deg 6 83s
+  D30 it 850 deg 6 91s
+D30 order 60: NO (4,1)-Cayley graph with degree in [6,6]  (896 iterations, 99s) [c]
+D30 order 60: |Aut|=240 sigma=id |N|=240 atoms=45 lex-perms=239 replayed cuts=0  [0s]
+  D30 it 50 deg 6 2s
+  D30 it 100 deg 6 4s
+  D30 it 150 deg 6 6s
+  D30 it 200 deg 6 6s
+  D30 it 250 deg 6 7s
+  D30 it 300 deg 6 8s
+  D30 it 350 deg 6 8s
+  D30 it 400 deg 6 9s
+  D30 it 450 deg 6 10s
+  D30 it 500 deg 6 11s
+  D30 it 550 deg 6 12s
+  D30 it 600 deg 6 13s
+  D30 it 650 deg 6 14s
+  D30 it 700 deg 6 15s
+  D30 it 750 deg 6 16s
+  D30 it 800 deg 6 17s
+  D30 it 850 deg 6 17s
+D30 order 60: NO (4,1)-Cayley graph with degree in [6,6]  (880 iterations, 18s) [s sigma=id]
+PASS same D30 r=1 d=[6,6]: c NO 99s, s(id) NO 18s

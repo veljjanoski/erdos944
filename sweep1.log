@@ -1,0 +1,10 @@
+S4xZ2: TIMEOUT after 1800 s
+Z5x|2Z12: TIMEOUT after 1800 s
+A5 order 60: NO (4,2)-Cayley graph with degree in [9,12]  (252 iterations, 200s)
+S4xZ3 order 72: NO (4,2)-Cayley graph with degree in [9,12]  (304 iterations, 125s)
+A4xZ2 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (16 iterations, 0s)
+A4xZ3 order 36: NO (4,2)-Cayley graph with degree in [9,12]  (19 iterations, 0s)
+A4xZ4 order 48: NO (4,2)-Cayley graph with degree in [9,12]  (136 iterations, 11s)
+A4xZ5 order 60: NO (4,2)-Cayley graph with degree in [9,12]  (41 iterations, 16s)
+A4xZ6 order 72: NO (4,2)-Cayley graph with degree in [9,12]  (275 iterations, 122s)
+S4 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (14 iterations, 0s)

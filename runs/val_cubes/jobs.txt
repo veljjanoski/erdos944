@@ -1,0 +1,15 @@
+C_Z5Z12	python ../../validate_s.py lanec Z5x|2Z12 1 6
+C_Z15Z4	python ../../validate_s.py lanec Z15x|2Z4 1 6
+C_S4Z2	python ../../validate_s.py lanec S4xZ2 1 6
+C_D20_9	python ../../validate_s.py lanec D20 0 9
+C_Z40_9	python ../../validate_s.py lanec Z40 0 9
+C_A5_9	python ../../validate_s.py lanec A5 0 9
+C_Z13_6	python ../../validate_s.py lanec Z13 0 6
+C_D20_10	python ../../validate_s.py lanec D20 0 10
+L_D20_10	python ../../validate_s.py lane D20 0 10
+M_S4S3	python ../../validate_s.py cmp S4xS3 2 9 2
+M_PSL28	python ../../validate_s.py cmp PSL28 2 9 0
+M_A5Z2_0	python ../../validate_s.py cmp A5xZ2 2 9 0
+M_A5Z2_1	python ../../validate_s.py cmp A5xZ2 2 9 1
+M_A5Z2_10	python ../../validate_s.py cmp A5xZ2 2 10 0
+M_PSL27	python ../../validate_s.py cmp PSL27 2 9 0

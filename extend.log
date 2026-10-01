@@ -1,0 +1,8 @@
+Kitamura48 atoms 27
+  Kitamura48 +2 atoms: 351 sets in 6s -> {'d3>=3,not-vc': 350, 'd3<=2': 1}
+  Kitamura48 +3 atoms: 2925 sets in 21s -> {'d3>=3,not-vc': 2925}
+  Kitamura48 +4 atoms: 11817 sets in 55s -> {'d3>=3,not-vc': 11817}
+Chan60 atoms 28
+  Chan60 +2 atoms: 378 sets in 8s -> {'d3>=3,not-vc': 378}
+  Chan60 +3 atoms: 3276 sets in 29s -> {'d3>=3,not-vc': 3276}
+  Chan60 +4 atoms: 925 sets in 5s -> {'d3>=3,not-vc': 925}

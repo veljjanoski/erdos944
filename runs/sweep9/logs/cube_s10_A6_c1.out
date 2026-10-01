@@ -1,0 +1,15 @@
+A6 order 360: |Aut|=1440 sigma=1 (order 2, class size 36, fp afa9c399) |N|=40 atoms=112 lex-perms=19 replayed cuts=45  [4s]
+  6328 cubes, 0 already done
+  A6 cubes done 500/6328, it 500, 2419s
+  A6 cubes done 1000/6328, it 1000, 2590s
+  A6 cubes done 1500/6328, it 1500, 2654s
+  A6 cubes done 2000/6328, it 2000, 2692s
+  A6 cubes done 2500/6328, it 2500, 2733s
+  A6 cubes done 3000/6328, it 3000, 2763s
+  A6 cubes done 3500/6328, it 3500, 2807s
+  A6 cubes done 4000/6328, it 4000, 2842s
+  A6 cubes done 4500/6328, it 4500, 2897s
+  A6 cubes done 5000/6328, it 5000, 2932s
+  A6 cubes done 5500/6328, it 5500, 2947s
+  A6 cubes done 6000/6328, it 6000, 2954s
+A6 order 360: NO (4,2)-Cayley graph with degree in [10,10]  (6328 iterations, 2955s) [s sigma=1 (order 2, class size 36, fp afa9c399) cubes=6328]

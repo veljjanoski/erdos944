@@ -1,0 +1,16 @@
+D9         r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 3650 S, 187 G-e 3col, 0 witnesses, split-feasible=no (0.2s)  OK
+Z2xZ12     r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 3564 S, 186 G-e 3col, 0 witnesses, split-feasible=no (0.2s)  OK
+Dic3xZ2    r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 3564 S, 372 G-e 3col, 0 witnesses, split-feasible=no (0.4s)  OK
+Z5x|2Z4    r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 1974 S, 1 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+D4xZ2      r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 2608 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.0s)  OK
+Z3x|2Z4xZ2 r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 3564 S, 372 G-e 3col, 0 witnesses, split-feasible=no (0.4s)  OK
+Z2xZ2xZ2xZ2 r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 9828 S, 0 G-e 3col, 0 witnesses, split-feasible=no (0.2s)  OK
+A4xZ2      r=2 deg[9,12] cegar=NO it=1 (0.1s) | ref: 14820 S, 154 G-e 3col, 0 witnesses, split-feasible=no (0.6s)  OK
+Z2xZ2xZ6   r=2 deg[9,12] cegar=NO it=1 (0.1s) | ref: 14820 S, 574 G-e 3col, 0 witnesses, split-feasible=no (0.8s)  OK
+S3xZ4      r=2 deg[9,12] cegar=NO it=1 (0.1s) | ref: 14820 S, 1396 G-e 3col, 0 witnesses, split-feasible=no (1.4s)  OK
+Z2xZ2xZ2xZ3 r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 14820 S, 574 G-e 3col, 0 witnesses, split-feasible=no (1.4s)  OK
+D10        r=2 deg[9,12] cegar=NO it=1 (0.0s) | ref: 17062 S, 25 G-e 3col, 0 witnesses, split-feasible=no (0.6s)  OK
+S4         r=2 deg[9,12] cegar=NO it=1 (0.1s) | ref: 30276 S, 1182 G-e 3col, 0 witnesses, split-feasible=no (2.5s)  OK
+D11        r=2 deg[9,12] cegar=NO it=1 (0.1s) | ref: 34124 S, 122 G-e 3col, 0 witnesses, split-feasible=no (1.5s)  OK
+D12        r=2 deg[9,12] cegar=NO it=1 (0.3s) | ref: 126764 S, 5604 G-e 3col, 0 witnesses, split-feasible=no (10.1s)  OK
+TOTAL problems: 0

@@ -1,0 +1,17 @@
+15 jobs, 0 already finished/skipped, 15 to run
+[2026-09-29 16:47:30] L_Z40_0_9: DONE (3.0 s) PASS lane Z40 r=0 d=9: orbits 20, with nontrivial stabiliser 20, found by sigma-lane 20 (per class [0, 0, 0, 0, 0, 0, 20]); sigma=id finds all orbits exactly on
+[2026-09-29 16:47:31] L_Z5Z12: DONE (4.0 s) PASS lane Z5x|2Z12 r=1 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 0, 1]); sigma=id finds all orbits exactly once: True
+[2026-09-29 16:47:31] L_Z15Z4: DONE (4.1 s) PASS lane Z15x|2Z4 r=1 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 0, 0, 1]); sigma=id finds all orbits exactly once: T
+[2026-09-29 16:47:31] L_D10_0_6: DONE (1.0 s) PASS lane D10 r=0 d=6: orbits 0, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0]); sigma=id finds all orbits exactly once: True  [0s
+[2026-09-29 16:47:32] L_Z13_0_6: DONE (1.0 s) PASS lane Z13 r=0 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 1]); sigma=id finds all orbits exactly once: True  [0s]
+[2026-09-29 16:47:32] S_Z13_1: DONE (1.0 s) PASS same Z13 r=1 d=[6,6]: c NO 0s, s(id) NO 0s
+[2026-09-29 16:47:35] L_A5_0_9: DONE (8.1 s) PASS lane A5 r=0 d=9: orbits 1, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0]); sigma=id finds all orbits exactly once: True  [7s]
+[2026-09-29 16:47:35] S_A5_1: DONE (4.0 s) PASS same A5 r=1 d=[6,6]: c NO 2s, s(id) NO 1s
+[2026-09-29 16:47:35] S_S4Z2_1: DONE (3.0 s) PASS same S4xZ2 r=1 d=[6,6]: c WITNESS 1s, s(id) WITNESS 1s
+[2026-09-29 16:47:36] L_S4Z2: DONE (9.2 s) PASS lane S4xZ2 r=1 d=6: orbits 3, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0, 0, 0]); sigma=id finds all orbits exactly once: T
+[2026-09-29 16:47:43] L_D20_0_9: DONE (16.2 s) PASS lane D20 r=0 d=9: orbits 98, with nontrivial stabiliser 20, found by sigma-lane 20 (per class [0, 0, 0, 0, 0, 0, 0, 20]); sigma=id finds all orbits exactly
+[2026-09-29 16:48:00] S_D24_2: DONE (25.0 s) PASS same D24 r=2 d=[11,11]: c NO 20s, s(id) NO 5s
+[2026-09-29 16:48:40] S_Z80_2: DONE (65.1 s) PASS same Z80 r=2 d=[10,10]: c NO 50s, s(id) NO 14s
+[2026-09-29 16:49:29] S_D30_1: DONE (117.1 s) PASS same D30 r=1 d=[6,6]: c NO 99s, s(id) NO 18s
+[2026-09-29 16:54:44] S_S4Z4_2: DONE (428.3 s) PASS same S4xZ4 r=2 d=[9,9]: c NO 329s, s(id) NO 99s
+runner finished

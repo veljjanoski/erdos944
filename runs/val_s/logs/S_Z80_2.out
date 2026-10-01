@@ -1,0 +1,4 @@
+Z80 order 80: NO (4,2)-Cayley graph with degree in [10,10]  (1 iterations, 50s) [c]
+Z80 order 80: |Aut|=32 sigma=id |N|=32 atoms=40 lex-perms=15 replayed cuts=0  [0s]
+Z80 order 80: NO (4,2)-Cayley graph with degree in [10,10]  (1 iterations, 14s) [s sigma=id]
+PASS same Z80 r=2 d=[10,10]: c NO 50s, s(id) NO 14s

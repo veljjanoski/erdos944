@@ -1,0 +1,7 @@
+  Z5x|2Z12 it 50 deg 6 10s
+  Z5x|2Z12 it 50 deg 6 3s
+  Z5x|2Z12 it 100 deg 6 6s
+  Z5x|2Z12 it 150 deg 6 17s
+  Z5x|2Z12 it 200 deg 6 28s
+  Z5x|2Z12 it 250 deg 6 41s
+Z5x|2Z12 n=60 r=1 [6,6] brute=20 (12s) | split=True: 20 wit explicit_all_ok=True MATCH (61s) | split=False: 20 wit explicit_all_ok=True MATCH (45s)

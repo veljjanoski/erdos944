@@ -1,0 +1,10 @@
+Z5x|2Z12 order 60: NO (4,1)-Cayley graph with degree in [6,6]  (12 iterations, 2s) [c]
+Z5x|2Z12: 1 witness orbit(s) of (4,1)-Cayley graphs at degree 6
+Z5x|2Z12 orbit 0: S = [(1, 5), (1, 11), (2, 7), (3, 1), (3, 6), (4, 6)]
+[Z5x|2Z12#0] n=60 m=180 deg=6 d3=2 G-e 3-colourable=True
+[Z5x|2Z12#0] proper colourings of G1-e mod renaming: 16; defect-2 colourings mod renaming: 4200  [16s]
+[Z5x|2Z12#0] check: plain counts 25200 = 6 x 4200? True;  288 = 18 x 16? True  [29s]
+[Z5x|2Z12#0] SAT instance: 2550 variables, 541380 clauses  [29s]
+[Z5x|2Z12#0] cadical: UNSAT  [30s]
+[Z5x|2Z12#0] glucose: UNSAT  [30s]
+[Z5x|2Z12#0] RESULT: no (4,2)-graph contains this graph (exact)

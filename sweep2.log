@@ -1,0 +1,26 @@
+D12 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (55 iterations, 1s)
+D15 order 30: NO (4,2)-Cayley graph with degree in [9,12]  (92 iterations, 2s)
+D18 order 36: NO (4,2)-Cayley graph with degree in [9,12]  (903 iterations, 99s)
+D20 order 40: NO (4,2)-Cayley graph with degree in [9,12]  (1682 iterations, 542s)
+D21 order 42: NO (4,2)-Cayley graph with degree in [9,12]  (275 iterations, 67s)
+D24: TIMEOUT after 1800 s
+D30: TIMEOUT after 1800 s
+Dic6 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (27 iterations, 0s)
+Dic8 order 32: NO (4,2)-Cayley graph with degree in [9,12]  (70 iterations, 1s)
+Dic12 order 48: NO (4,2)-Cayley graph with degree in [9,12]  (424 iterations, 41s)
+Dic15 order 60: NO (4,2)-Cayley graph with degree in [9,12]  (255 iterations, 70s)
+Z5x|2Z4 order 20: NO (4,2)-Cayley graph with degree in [9,12]  (2 iterations, 0s)
+Z7x|2Z3 order 21: NO (4,2)-Cayley graph with degree in [9,12]  (2 iterations, 0s)
+Z7x|2Z6 order 42: NO (4,2)-Cayley graph with degree in [9,12]  (275 iterations, 20s)
+Z9x|2Z6: TIMEOUT after 1800 s
+Z11x|3Z5 order 55: NO (4,2)-Cayley graph with degree in [9,12]  (3 iterations, 11s)
+Z13x|3Z3 order 39: NO (4,2)-Cayley graph with degree in [9,12]  (2 iterations, 0s)
+Z13x|5Z4 order 52: NO (4,2)-Cayley graph with degree in [9,12]  (909 iterations, 354s)
+Z16x|3Z4: TIMEOUT after 1800 s
+Z3x|2Z8 order 24: NO (4,2)-Cayley graph with degree in [9,12]  (8 iterations, 0s)
+Z5x|2Z8 order 40: NO (4,2)-Cayley graph with degree in [9,12]  (169 iterations, 4s)
+c found falsified original clause
+Z7x|3Z6 order 42: NO (4,2)-Cayley graph with degree in [9,12]  (977 iterations, 138s)
+Z15x|2Z4 order 60: NO (4,2)-Cayley graph with degree in [9,12]  (330 iterations, 66s)
+Z21x|2Z6 order 126: NO (4,2)-Cayley graph with degree in [9,12]  (320 iterations, 926s)
+Z11x|2Z10: TIMEOUT after 1800 s

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+cuts/
+runner_test/
+runs/*/STOP
+runs/*/STOPNOW
+WITNESSES.txt.bak

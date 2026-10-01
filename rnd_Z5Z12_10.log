@@ -1,0 +1,7 @@
+Z5x|2Z12 order 60 atoms 32 degree 10
+  200 tried 4s {'d3>=3,not-vc': 174, 'd3<=2': 26}
+  400 tried 8s {'d3>=3,not-vc': 348, 'd3<=2': 52}
+  600 tried 12s {'d3>=3,not-vc': 524, 'd3<=2': 76}
+  800 tried 16s {'d3>=3,not-vc': 700, 'd3<=2': 100}
+  1000 tried 20s {'d3>=3,not-vc': 873, 'd3<=2': 127}
+Z5x|2Z12 10 final {'d3>=3,not-vc': 873, 'd3<=2': 127}

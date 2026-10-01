@@ -1,0 +1,6 @@
+  Z15x|2Z4 it 50 deg 6 3s
+  Z15x|2Z4 it 100 deg 6 16s
+  Z15x|2Z4 it 150 deg 6 38s
+Z15x|2Z4 order 60: NO (4,1)-Cayley graph with degree in [6,6]  (217 iterations, 109s) [c-nosymm]
+Z15x|2Z4 order 60: NO (4,1)-Cayley graph with degree in [6,6]  (15 iterations, 2s) [c]
+OK Z15x|2Z4: |Aut|=120 all witnesses 60 in 1 orbits; symmetry-broken search found 1, hits per orbit [1]  111s

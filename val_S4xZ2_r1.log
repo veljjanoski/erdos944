@@ -1,0 +1,9 @@
+  S4xZ2 it 50 deg 6 0s
+  S4xZ2 it 100 deg 6 2s
+  S4xZ2 it 150 deg 6 6s
+  S4xZ2 it 200 deg 6 8s
+  S4xZ2 it 250 deg 6 11s
+  S4xZ2 it 300 deg 6 13s
+  S4xZ2 it 350 deg 6 15s
+  S4xZ2 it 400 deg 6 18s
+S4xZ2 order 48: WITNESS degree 6 S=[(2, 1), (7, 0), (15, 1), (20, 1), (21, 1), (23, 1)] explicit=True ok (442 it, 22s)

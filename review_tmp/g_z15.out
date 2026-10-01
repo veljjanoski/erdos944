@@ -1,0 +1,11 @@
+  Z15x|2Z4 it 50 deg 6 3s
+  Z15x|2Z4 it 100 deg 6 20s
+  Z15x|2Z4 it 50 deg 6 3s
+  Z15x|2Z4 it 100 deg 6 10s
+  Z15x|2Z4 it 150 deg 6 25s
+  Z15x|2Z4 it 200 deg 6 34s
+  Z15x|2Z4 it 250 deg 6 46s
+  Z15x|2Z4 it 300 deg 6 54s
+  Z15x|2Z4 it 350 deg 6 64s
+  Z15x|2Z4 it 400 deg 6 80s
+Z15x|2Z4 n=60 r=1 [6,6] brute=60 (13s) | split=True: 60 wit explicit_all_ok=True MATCH (107s) | split=False: 60 wit explicit_all_ok=True MATCH (96s)

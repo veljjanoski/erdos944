@@ -1,0 +1,15 @@
+PGL27 order 336: |Aut|=336 sigma=0 (order 2, class size 21, fp d9420028) |N|=16 atoms=112 lex-perms=7 replayed cuts=62  [1s]
+  6328 cubes, 0 already done
+  PGL27 cubes done 500/6328, it 500, 23974s
+  PGL27 cubes done 1000/6328, it 1000, 26816s
+  PGL27 cubes done 1500/6328, it 1500, 27249s
+  PGL27 cubes done 2000/6328, it 2000, 27585s
+  PGL27 cubes done 2500/6328, it 2500, 27677s
+  PGL27 cubes done 3000/6328, it 3000, 27917s
+  PGL27 cubes done 3500/6328, it 3500, 28176s
+  PGL27 cubes done 4000/6328, it 4000, 28311s
+  PGL27 cubes done 4500/6328, it 4500, 28427s
+  PGL27 cubes done 5000/6328, it 5000, 28518s
+  PGL27 cubes done 5500/6328, it 5500, 28595s
+  PGL27 cubes done 6000/6328, it 6000, 28631s
+PGL27 order 336: NO (4,2)-Cayley graph with degree in [10,10]  (6328 iterations, 28631s) [s sigma=0 (order 2, class size 21, fp d9420028) cubes=6328]

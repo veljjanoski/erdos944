@@ -1,0 +1,3 @@
+{"id": "cl_Z5Z12", "status": "DONE", "rc": 0, "seconds": 32.0, "last": "[Z5x|2Z12#0] RESULT: no (4,2)-graph contains this graph (exact)", "time": "2026-09-29 16:44:42"}
+{"id": "cl_Z15Z4", "status": "DONE", "rc": 0, "seconds": 37.0, "last": "[Z15x|2Z4#0] RESULT: no (4,2)-graph contains this graph (exact)", "time": "2026-09-29 16:44:47"}
+{"id": "cl_S4xZ2", "status": "DONE", "rc": 0, "seconds": 43.1, "last": "[S4xZ2#2] RESULT: no (4,2)-graph contains this graph (exact)", "time": "2026-09-29 16:44:53"}

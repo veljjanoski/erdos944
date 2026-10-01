@@ -1,0 +1,24 @@
+{"id": "L_Z40_0_9", "status": "DONE", "rc": 0, "seconds": 3.0, "last": "PASS lane Z40 r=0 d=9: orbits 20, with nontrivial stabiliser 20, found by sigma-lane 20 (per class [0, 0, 0, 0, 0, 0, 20]); sigma=id finds all orbits exactly once: True  [2s]", "time": "2026-09-29 17:07:24"}
+{"id": "L_Z15Z4", "status": "DONE", "rc": 0, "seconds": 4.0, "last": "PASS lane Z15x|2Z4 r=1 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 0, 0, 1]); sigma=id finds all orbits exactly once: True  [4s]", "time": "2026-09-29 17:07:25"}
+{"id": "L_Z5Z12", "status": "DONE", "rc": 0, "seconds": 5.1, "last": "PASS lane Z5x|2Z12 r=1 d=6: orbits 1, with nontrivial stabiliser 1, found by sigma-lane 1 (per class [0, 0, 0, 1]); sigma=id finds all orbits exactly once: True  [4s]", "time": "2026-09-29 17:07:26"}
+{"id": "ls_00", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 2, size 15, sigma-atoms 47, |N|=8, fp 18794494  needed", "time": "2026-09-29 17:07:27"}
+{"id": "S_S4Z2_1", "status": "DONE", "rc": 0, "seconds": 3.0, "last": "PASS same S4xZ2 r=1 d=[6,6]: c WITNESS 1s, s(id) WITNESS 1s", "time": "2026-09-29 17:07:28"}
+{"id": "ls_01", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 7: order 2, size 18, sigma-atoms 57, |N|=8, fp b238b2cd  needed", "time": "2026-09-29 17:07:28"}
+{"id": "ls_02", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 7: order 2, size 5, sigma-atoms 43, |N|=16, fp 972bbb9b  needed", "time": "2026-09-29 17:07:29"}
+{"id": "ls_03", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 2, size 21, sigma-atoms 54, |N|=16, fp 4c5f933d  needed", "time": "2026-09-29 17:07:29"}
+{"id": "L_S4Z2", "status": "DONE", "rc": 0, "seconds": 9.1, "last": "PASS lane S4xZ2 r=1 d=6: orbits 3, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0, 0, 0]); sigma=id finds all orbits exactly once: True  [8s]", "time": "2026-09-29 17:07:30"}
+{"id": "L_A5_0_9", "status": "DONE", "rc": 0, "seconds": 9.1, "last": "PASS lane A5 r=0 d=9: orbits 1, with nontrivial stabiliser 0, found by sigma-lane 0 (per class [0, 0, 0, 0]); sigma=id finds all orbits exactly once: True  [8s]", "time": "2026-09-29 17:07:30"}
+{"id": "ls_04", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 5, size 24, sigma-atoms 16, |N|=20, fp ff10c5e8  needed", "time": "2026-09-29 17:07:30"}
+{"id": "ls_05", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 3, size 20, sigma-atoms 22, |N|=12, fp 401b98a6  needed", "time": "2026-09-29 17:07:30"}
+{"id": "ls_06", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 6: order 2, size 15, sigma-atoms 61, |N|=16, fp 527c63b1  needed", "time": "2026-09-29 17:07:31"}
+{"id": "ls_07", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 3, size 56, sigma-atoms 66, |N|=12, fp 3a3d36c1  needed", "time": "2026-09-29 17:07:31"}
+{"id": "ls_10", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 3: order 2, size 21, sigma-atoms 109, |N|=16, fp f090db43  needed", "time": "2026-09-29 17:07:32"}
+{"id": "ls_11", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 7: order 2, size 5, sigma-atoms 42, |N|=16, fp 8a27a786  needed", "time": "2026-09-29 17:07:32"}
+{"id": "ls_12", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 8: order 2, size 15, sigma-atoms 42, |N|=16, fp d6665f85  needed", "time": "2026-09-29 17:07:33"}
+{"id": "ls_13", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 8: order 2, size 15, sigma-atoms 60, |N|=16, fp 0b54ab43  needed", "time": "2026-09-29 17:07:33"}
+{"id": "ls_14", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 5: order 2, size 6, sigma-atoms 45, |N|=16, fp fe708593  needed", "time": "2026-09-29 17:07:34"}
+{"id": "ls_15", "status": "DONE", "rc": 0, "seconds": 1.0, "last": "  class 11: order 2, size 6, sigma-atoms 57, |N|=16, fp 888a9c34  needed", "time": "2026-09-29 17:07:34"}
+{"id": "ls_08", "status": "DONE", "rc": 0, "seconds": 5.1, "last": "  class 4: order 2, size 45, sigma-atoms 114, |N|=32, fp b06c22b7  needed", "time": "2026-09-29 17:07:35"}
+{"id": "L_D20_0_9", "status": "DONE", "rc": 0, "seconds": 16.3, "last": "PASS lane D20 r=0 d=9: orbits 98, with nontrivial stabiliser 20, found by sigma-lane 20 (per class [0, 0, 0, 0, 0, 0, 0, 20]); sigma=id finds all orbits exactly once: True  [16s]", "time": "2026-09-29 17:07:37"}
+{"id": "ls_09", "status": "DONE", "rc": 0, "seconds": 10.1, "last": "  class 4: order 2, size 63, sigma-atoms 159, |N|=24, fp 570cb65b  needed", "time": "2026-09-29 17:07:40"}
+{"id": "S_Z80_2", "status": "DONE", "rc": 0, "seconds": 53.3, "last": "PASS same Z80 r=2 d=[10,10]: c NO 42s, s(id) NO 10s", "time": "2026-09-29 17:08:17"}

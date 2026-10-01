@@ -1,0 +1,9 @@
+S4xZ4: TIMEOUT after 7200 s
+A4xZ7 order 84: NO (4,2)-Cayley graph with degree in [9,9]  (31 iterations, 87s)
+A4xZ8 order 96: NO (4,2)-Cayley graph with degree in [9,9]  (456 iterations, 1902s)
+A4xS3 order 72: NO (4,2)-Cayley graph with degree in [9,9]  (477 iterations, 425s)
+S4xS3: TIMEOUT after 7200 s
+A5xZ2: TIMEOUT after 7200 s
+Z7x|2Z9 order 63: NO (4,2)-Cayley graph with degree in [9,9]  (1 iterations, 0s)
+Z9x|4Z3 order 27: NO (4,2)-Cayley graph with degree in [9,9]  (1 iterations, 0s)
+Z13x|2Z12: TIMEOUT after 7200 s

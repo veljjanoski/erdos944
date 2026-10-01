@@ -1,0 +1,4 @@
+D24 order 48: NO (4,2)-Cayley graph with degree in [11,11]  (1 iterations, 20s) [c]
+D24 order 48: |Aut|=192 sigma=id |N|=192 atoms=36 lex-perms=191 replayed cuts=0  [0s]
+D24 order 48: NO (4,2)-Cayley graph with degree in [11,11]  (1 iterations, 5s) [s sigma=id]
+PASS same D24 r=2 d=[11,11]: c NO 20s, s(id) NO 5s
