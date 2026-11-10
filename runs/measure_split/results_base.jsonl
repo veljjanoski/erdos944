@@ -1,0 +1,3 @@
+{"id": "m1415_c153", "status": "TIMEOUT", "rc": null, "seconds": 7200.1, "last": "  12720 cubes, only 1, 0 already done, 0 of mine, solver cadical153", "time": "2026-11-06 12:08:02"}
+{"id": "m1415_c300", "status": "TIMEOUT", "rc": null, "seconds": 7200.1, "last": "  12720 cubes, only 1, 0 already done, 0 of mine, solver cadical300", "time": "2026-11-06 12:08:02"}
+{"id": "m1418_c300", "status": "TIMEOUT", "rc": null, "seconds": 7200.1, "last": "  12720 cubes, only 1, 0 already done, 0 of mine, solver cadical300", "time": "2026-11-06 12:08:02"}

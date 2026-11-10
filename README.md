@@ -40,10 +40,12 @@ families they cover; they say nothing about other graphs, other groups or other 
 3. **Symmetric connection sets on 15 larger groups** (`cegar944s.py`): orders 120 to 504 — A5 × Z2, S5, SL(2,5),
    S4 × S3, PSL(2,7), PGL(2,7), A5 × Z3, A6, PSL(2,8), PSL(2,7) × Z2 and groups close to the r = 1 examples (S4 × Z5,
    S4 × Z6, F20 × Z6, (Z15 ⋊₂ Z4) × Z2, (Z15 ⋊₂ Z4) × Z3). For every automorphism σ of prime order (one per conjugacy
-   class in Aut(Γ)), no σ-invariant connection set of size 9 or 10 gives a (4,2)-graph: 182 of the 186 (group, class,
+   class in Aut(Γ)), no σ-invariant connection set of size 9 or 10 gives a (4,2)-graph: all 186 (group, class,
    size) cases are decided (F20 × Z6 was also run under a second name, Z5 ⋊₂ Z12 × Z2, as a consistency check, with the
-   same verdicts), 4 are open: PSL(2,7) × Z2 for two classes at size 10, and PSL(2,8) for one class at sizes 9 and 10.
-   Hence, apart from these 4 cases, every (4,2)-Cayley graph of degree 9 or 10 on these groups has a connection set
+   same verdicts). The last four cases, PSL(2,7) × Z2 for two classes at size 10 and PSL(2,8) for one class at sizes 9
+   and 10, were finished on 5 and 10 November 2026 in cube mode, the PSL(2,8) lanes with cube splitting and six shards
+   per lane (12 workers, 10 hours; 12720 cubes per lane, 234k and 281k recorded cube and sub-cube lines). Hence every
+   (4,2)-Cayley graph of degree 9 or 10 on these groups has a connection set
    with trivial stabiliser in Aut(Γ): a (4,r)-graph is connected, so S generates Γ and its stabiliser acts faithfully
    on S; a nontrivial stabiliser therefore contains an automorphism of prime order p ≤ |S|, conjugate to one of the σ
    used, and the search for that σ finds an isomorphic copy. Table: `RESULTS.md`.
@@ -57,7 +59,13 @@ is none, S is a witness and is checked again from the definition (`c944.verify_4
 speed this up: every colour of y occurs at least r + 1 times on S (otherwise e could be coloured with at most r bad
 edges), and lexicographic symmetry breaking over Aut(Γ). `cegar944s.py` adds the restriction to σ-invariant S, symmetry
 breaking over the normaliser of ⟨σ⟩, colour-renaming symmetry, a smaller equivalent encoding of the added constraints,
-storage of those constraints, and an optional split into subproblems ("cubes") whose results are saved one by one.
+storage of those constraints, and an optional split into subproblems ("cubes") whose results are saved one by one. A
+cube fixes the one or two smallest σ-atoms of S. A hard cube can be split further (cube and conquer): the prefix cube
+"c are the smallest chosen atoms" is the disjoint union of the exact cube "exactly c" and the prefix cubes c + (k,) for
+every later atom k; a split is triggered by a conflict budget (CaDiCaL 3.0) or in advance for the pairs near the
+diagonal, and a parent is recorded only after all its sub-cubes. A lane can run as m shards (cube index modulo m), each
+with its own progress file. `lane_status.py` declares a lane NO only when the union of its files covers every cube, and
+`check_cover.py` re-checks, independently of the search, that every recorded split is covered by its sub-cubes.
 
 **Validation.**
 - Positive controls: the searches find Kitamura's and Chan's graphs (r = 1, degree 6) and the third order-60 example;
@@ -72,6 +80,14 @@ storage of those constraints, and an optional split into subproblems ("cubes") w
   classes with a nontrivial stabiliser, with and without cubes (`runs/val_s*`, `runs/val_cubes`); with σ = identity it
   gives the same verdicts as `cegar944c.py`. `groups944.py` checks the new groups against known orders and element-order
   statistics (`groups944_check.log`), `auto944.py` checks Aut(Γ) against known orders (`auto944_check.log`).
+- Cube splitting and sharding (`runs/val_split/val_split.sh`, logs beside it): with every pair cube pre-split and a
+  50-conflict budget (`validate_s.py lanesplit`), the σ search still finds exactly the witness classes on D20 (r = 0,
+  degrees 9 and 10) and A5 (r = 0, degree 9); on a fast PSL(2,8) lane, a whole-lane split run, a 2-shard split run
+  killed after 45 s and resumed, and an unsplit shard combined with three split shards each give a complete cover with
+  no duplicate cube (`check_cover.py`, `lane_status.py`). The two hardest cubes of the PSL(2,8) lanes took 5.0 h and
+  2.8 h without splitting on 5 November 2026 (CaDiCaL 1.5.3); on 6 November the first did not finish within 2 h with
+  either solver version and the second not within 2 h with CaDiCaL 3.0, against 37 min and 21 min with splitting (no
+  sub-cube over one minute); `runs/measure_split/`.
 - The new code was reviewed (read-only) before the long runs; the robustness issues found were fixed and the validation
   repeated.
 
@@ -79,12 +95,17 @@ storage of those constraints, and an optional split into subproblems ("cubes") w
 `'Z15x|2Z4'`, quoted because of the `|`) reproduces part 1. Part 2: `python cegar944c.py GROUP 2 d d`; the larger runs
 used `job_c.sh` / `job_b.sh` over `jobs_c.txt` / `jobs_b.txt` with `xargs -L 1`. Part 3 runs through `safe_run.py`
 (Windows only: Job Objects with a per-process memory limit; results appended per job, finished jobs skipped on restart):
-`runs/sweep9/run_sweep.sh`, `run_t4h.sh`, `run_cubes.sh`. `python compile_results.py` rebuilds `RESULTS.md` from the logs.
+`runs/sweep9/run_sweep.sh`, `run_t4h.sh`, `run_cubes.sh`, `run_cubes2.sh`, `run_cubes3.sh` (the last two in cube mode
+with `--shard k/m`; `run_cubes3.sh` adds `--solver cadical300 --presplit 10 --budget 100000`). `python lane_status.py`
+reports the cube-mode lanes, `python check_cover.py` re-checks their progress files, and `stop_at_boundary.py` stops
+cube workers without losing the running cube. `python compile_results.py` rebuilds `RESULTS.md` from the logs and the
+progress files.
 
 **Files.** `c944.py` (groups, Cayley graphs, SAT checks), `search944.py`, `auto944.py` (automorphism groups),
 `cegar944.py`, `cegar944b.py`, `cegar944c.py` (exhaustive search, versions a, b, c), `cegar944s.py` (σ search),
 `groups944.py` (PSL(2,7), PGL(2,7), SL(2,5), PSL(2,8), products), `closure944.py` (part 1), `validate_c*.py`,
-`validate_s.py`, `brute944.py`, `brute_split.py`, `safe_run.py`, `compile_results.py`; logs `*.log`, `runs/`,
+`validate_s.py`, `brute944.py`, `brute_split.py`, `safe_run.py`, `lane_status.py`, `check_cover.py`,
+`stop_at_boundary.py`, `compile_results.py`; logs `*.log`, `runs/`,
 `progress/` (cube progress), `review_tmp/` (cross-checks of 26 Sep 2026); job lists `*.txt` and their parts (`a86_*`,
 `c86_*`, `l5_*`, `l5r_*`, `sp_*`, `t10_*`).
 

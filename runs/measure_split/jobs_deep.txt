@@ -1,0 +1,8 @@
+deep_d10_24_25	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --norecord --only 24,25 --solver cadical300 --presplit 10 --budget 100000 --prog deep_d10_24_25
+deep_d10_39_40	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --norecord --only 39,40 --solver cadical300 --presplit 10 --budget 100000 --prog deep_d10_39_40
+deep_d10_59_60	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --norecord --only 59,60 --solver cadical300 --presplit 10 --budget 100000 --prog deep_d10_59_60
+deep_d10_89_90	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --norecord --only 89,90 --solver cadical300 --presplit 10 --budget 100000 --prog deep_d10_89_90
+deep_d10_129_130	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --norecord --only 129,130 --solver cadical300 --presplit 10 --budget 100000 --prog deep_d10_129_130
+deep_d9_29_30	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --norecord --only 29,30 --solver cadical300 --presplit 10 --budget 100000 --prog deep_d9_29_30
+deep_d9_59_60	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --norecord --only 59,60 --solver cadical300 --presplit 10 --budget 100000 --prog deep_d9_59_60
+deep_d9_99_100	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --norecord --only 99,100 --solver cadical300 --presplit 10 --budget 100000 --prog deep_d9_99_100

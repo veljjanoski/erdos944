@@ -1,0 +1,6 @@
+{"id": "cube2_s10_PSL27xZ2_c3", "status": "DONE", "rc": 0, "seconds": 3096.0, "last": "PSL27xZ2 order 336: NO (4,2)-Cayley graph with degree in [10,10]  (5686 iterations, 3095s) [s sigma=3 (order 2, class size 21, fp f090db43) cubes=5995]", "time": "2026-11-05 08:51:42"}
+{"id": "cube2_s10_PSL27xZ2_c1", "status": "DONE", "rc": 0, "seconds": 9098.9, "last": "PSL27xZ2 order 336: NO (4,2)-Cayley graph with degree in [10,10]  (6086 iterations, 9099s) [s sigma=1 (order 2, class size 28, fp 837a75d4) cubes=6216]", "time": "2026-11-05 10:31:44"}
+{"id": "cube2_s9_PSL28_c4_sh0", "status": "FAILED", "rc": 15, "seconds": 34399.8, "last": "  12720 cubes, shard 0/2: 6360 cubes, 310 already done in the lane, 155 of mine", "time": "2026-11-05 17:33:25"}
+{"id": "cube2_s10_PSL28_c4_sh0", "status": "FAILED", "rc": 15, "seconds": 35069.2, "last": "  12720 cubes, shard 0/2: 6360 cubes, 278 already done in the lane, 139 of mine", "time": "2026-11-05 17:44:35"}
+{"id": "cube2_s9_PSL28_c4_sh1", "status": "KILLED", "rc": null, "seconds": 38119.0, "last": "  12720 cubes, shard 1/2: 6360 cubes, 310 already done in the lane, 155 of mine", "time": "2026-11-05 18:35:25"}
+{"id": "cube2_s10_PSL28_c4_sh1", "status": "KILLED", "rc": null, "seconds": 38119.0, "last": "  12720 cubes, shard 1/2: 6360 cubes, 278 already done in the lane, 139 of mine", "time": "2026-11-05 18:35:25"}

@@ -1,0 +1,15 @@
+PSL27xZ2 order 336: |Aut|=336 sigma=1 (order 2, class size 28, fp 837a75d4) |N|=12 atoms=111 lex-perms=5 replayed cuts=115  [2s]
+  6216 cubes, 131 already done in the lane, 131 of mine
+  PSL27xZ2 cubes done 500/6216, it 370, 6055s
+  PSL27xZ2 cubes done 1000/6216, it 870, 6430s
+  PSL27xZ2 cubes done 1500/6216, it 1370, 7541s
+  PSL27xZ2 cubes done 2000/6216, it 1870, 8069s
+  PSL27xZ2 cubes done 2500/6216, it 2370, 8331s
+  PSL27xZ2 cubes done 3000/6216, it 2870, 8776s
+  PSL27xZ2 cubes done 3500/6216, it 3370, 8891s
+  PSL27xZ2 cubes done 4000/6216, it 3870, 8922s
+  PSL27xZ2 cubes done 4500/6216, it 4370, 9010s
+  PSL27xZ2 cubes done 5000/6216, it 4870, 9067s
+  PSL27xZ2 cubes done 5500/6216, it 5370, 9094s
+  PSL27xZ2 cubes done 6000/6216, it 5870, 9098s
+PSL27xZ2 order 336: NO (4,2)-Cayley graph with degree in [10,10]  (6086 iterations, 9099s) [s sigma=1 (order 2, class size 28, fp 837a75d4) cubes=6216]

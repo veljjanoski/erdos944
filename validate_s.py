@@ -14,7 +14,10 @@ from auto944 import automorphisms
 
 def canon(S, auts): return min(tuple(sorted(f[t] for t in S)) for f in auts)
 
-def lane(spec, r, d, cubes=False):
+def lane(spec, r, d, cubes=False, split=False):
+    """split=True (with cubes): force the cube splitting of cegar944s everywhere (every pair pre-split, 50-conflict budget
+    on cadical300), so the enumerated witnesses come from exact and deeper prefix sub-cubes; must still match cegar944c."""
+    extra = dict(presplit=10**6, budget=50, solver="cadical300") if split else {}
     t0 = time.time(); G = group_by_name(spec); auts, _ = automorphisms(G)
     Wc = cegar944c.run(spec, r, d, d, log=None, symm=True, enum_all=True)
     orbits = {canon(S, auts) for S in Wc}
@@ -24,12 +27,12 @@ def lane(spec, r, d, cubes=False):
     classes, _ = cegar944s.prime_classes(G, cegar944s.aut_data(G), max(d, 2))
     found = set(); per = []
     for k in range(len(classes)):
-        Wk = cegar944s.run(spec, r, d, d, str(k), cuts=False, enum_all=True, record=False, cubes=cubes, progress=False)
+        Wk = cegar944s.run(spec, r, d, d, str(k), cuts=False, enum_all=True, record=False, cubes=cubes, progress=False, **extra)
         ck = {canon(S, auts) for S in Wk}; found |= ck; per.append(len(ck))
     Wid = cegar944s.run(spec, r, d, d, 'id', cuts=False, enum_all=True, record=False)
     same_id = {canon(S, auts) for S in Wid} == orbits and len(Wid) == len(orbits)
     ok = found == nontriv and same_id
-    print(f"{'PASS' if ok else 'FAIL'} lane{' (cubes)' if cubes else ''} {spec} r={r} d={d}: orbits {len(orbits)}, with nontrivial stabiliser {len(nontriv)}, "
+    print(f"{'PASS' if ok else 'FAIL'} lane{' (cubes, forced splits)' if split else ' (cubes)' if cubes else ''} {spec} r={r} d={d}: orbits {len(orbits)}, with nontrivial stabiliser {len(nontriv)}, "
           f"found by sigma-lane {len(found)} (per class {per}); sigma=id finds all orbits exactly once: {same_id}  [{time.time()-t0:.0f}s]", flush=True)
     return ok
 
@@ -54,6 +57,7 @@ if __name__ == "__main__":
     mode = sys.argv[1]
     if mode == "lane": ok = lane(sys.argv[2], int(sys.argv[3]), int(sys.argv[4]))
     elif mode == "lanec": ok = lane(sys.argv[2], int(sys.argv[3]), int(sys.argv[4]), cubes=True)
+    elif mode == "lanesplit": ok = lane(sys.argv[2], int(sys.argv[3]), int(sys.argv[4]), cubes=True, split=True)
     elif mode == "cmp": ok = cmp(sys.argv[2], int(sys.argv[3]), int(sys.argv[4]), sys.argv[5])
     else: ok = same(sys.argv[2], int(sys.argv[3]), int(sys.argv[4]), int(sys.argv[5]))
     sys.exit(0 if ok else 1)

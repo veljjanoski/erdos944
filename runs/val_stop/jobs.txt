@@ -1,0 +1,2 @@
+vs_sh0	python ../../cegar944s.py PSL28 2 10 10 --sigma 1 --cubes --norecord --shard 0/2
+vs_sh1	python ../../cegar944s.py PSL28 2 10 10 --sigma 1 --cubes --norecord --shard 1/2

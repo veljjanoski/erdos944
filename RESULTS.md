@@ -187,8 +187,8 @@ Z5x|2Z4xZ6 are the same group (F20 x Z6, since Z5x|2Z12 = F20 x Z3); it was run 
 | A5xZ3 | 180 | 240 | 7 | all NO | all NO |
 | Z15x\|2Z4xZ3 | 180 | 240 | 9 | all NO | all NO |
 | PGL27 | 336 | 336 | 4 | all NO | all NO |
-| PSL27xZ2 | 336 | 336 | 4 | all NO | c1: open (cube run stopped); c3: open (cube run stopped) |
+| PSL27xZ2 | 336 | 336 | 4 | all NO | all NO |
 | A6 | 360 | 1440 | 5 | all NO | all NO |
-| PSL28 | 504 | 1512 | 5 | c4: open (cube run stopped) | c4: open (cube run stopped) |
+| PSL28 | 504 | 1512 | 5 | all NO | all NO |
 
-198 of 202 lane runs NO (182 of 186 distinct (group, class, degree) cases); open: PSL27xZ2 d10 c1, PSL27xZ2 d10 c3, PSL28 d9 c4, PSL28 d10 c4
+202 of 202 lane runs NO (186 of 186 distinct (group, class, degree) cases); open: none

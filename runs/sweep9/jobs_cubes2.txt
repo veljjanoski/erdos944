@@ -1,0 +1,6 @@
+cube2_s10_PSL27xZ2_c1	python ../../cegar944s.py PSL27xZ2 2 10 10 --sigma 1 --cubes
+cube2_s10_PSL27xZ2_c3	python ../../cegar944s.py PSL27xZ2 2 10 10 --sigma 3 --cubes
+cube2_s9_PSL28_c4_sh0	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --shard 0/2
+cube2_s9_PSL28_c4_sh1	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --shard 1/2
+cube2_s10_PSL28_c4_sh0	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --shard 0/2
+cube2_s10_PSL28_c4_sh1	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --shard 1/2

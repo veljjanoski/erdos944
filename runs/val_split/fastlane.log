@@ -1,0 +1,18 @@
+== (a) fast lane PSL28 d10 sigma 1, whole lane with splitting
+PSL28 order 504: NO (4,2)-Cayley graph with degree in [10,10]  (46198 iterations, 123s) [s sigma=1 (order 3, class size 84, fp 35dfe6a3) cubes=4753 split=915 cadical300]
+PSL28_r2_d10-10_s1_fp35dfe6a3_A97: 1 file(s), 47113 keys, 915 split parents, 0 top-level cubes missing, 0 splits incomplete, 0 duplicates -> COVER COMPLETE
+PSL28_r2_d10-10_s1_fp35dfe6a3_A97: 4753/4753 cubes done in 1 file(s), 0 duplicates -> COMPLETE: lane NO
+== (b) 2 shards with splitting; shard 0 killed after 45 s and resumed
+  4753 cubes, shard 0/2: 2377 cubes, 0 already done in the lane, 0 of mine, presplit 10, budget 100000 conflicts, solver cadical300
+   killed: 5462 lines so far
+PSL28 order 504: SHARD-NO: shard 0/2 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.py)  (17654 iterations, 42s) [s sigma=1 (order 3, class size 84, fp 35dfe6a3) cubes=2377 shard=0/2 split=395 cadical300]
+PSL28 order 504: SHARD-NO: shard 1/2 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.py)  (23144 iterations, 84s) [s sigma=1 (order 3, class size 84, fp 35dfe6a3) cubes=2376 shard=1/2 split=458 cadical300]
+PSL28_r2_d10-10_s1_fp35dfe6a3_A97: 2 file(s), 47113 keys, 915 split parents, 0 top-level cubes missing, 0 splits incomplete, 0 duplicates -> COVER COMPLETE
+PSL28_r2_d10-10_s1_fp35dfe6a3_A97: 4753/4753 cubes done in 2 file(s), 0 duplicates -> COMPLETE: lane NO
+== (c) an unsplit shard 0/2 (CaDiCaL 1.5.3) plus three split shards k/3: the mixed files must cover the lane
+PSL28 order 504: SHARD-NO: shard 0/2 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.py)  (2377 iterations, 82s) [s sigma=1 (order 3, class size 84, fp 35dfe6a3) cubes=2377 shard=0/2]
+PSL28 order 504: SHARD-NO: shard 0/3 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.py)  (8311 iterations, 22s) [s sigma=1 (order 3, class size 84, fp 35dfe6a3) cubes=1585 shard=0/3 split=167 cadical300]
+PSL28 order 504: SHARD-NO: shard 1/3 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.py)  (7718 iterations, 40s) [s sigma=1 (order 3, class size 84, fp 35dfe6a3) cubes=1584 shard=1/3 split=152 cadical300]
+PSL28 order 504: SHARD-NO: shard 2/3 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.py)  (7115 iterations, 44s) [s sigma=1 (order 3, class size 84, fp 35dfe6a3) cubes=1584 shard=2/3 split=139 cadical300]
+PSL28_r2_d10-10_s1_fp35dfe6a3_A97: 4 file(s), 25979 keys, 458 split parents, 0 top-level cubes missing, 0 splits incomplete, 0 duplicates -> COVER COMPLETE
+PSL28_r2_d10-10_s1_fp35dfe6a3_A97: 4753/4753 cubes done in 4 file(s), 0 duplicates -> COMPLETE: lane NO

@@ -1,0 +1,5 @@
+3 jobs, 0 already finished/skipped, 3 to run
+[2026-11-05 16:48:48] vs_sh1: FAILED (67.1 s)   4753 cubes, shard 1/2: 2376 cubes, 7 already done in the lane, 0 of mine
+[2026-11-05 16:48:50] vs_sh0: FAILED (69.1 s)   4753 cubes, shard 0/2: 2377 cubes, 0 already done in the lane, 0 of mine
+[2026-11-05 16:50:01] vs_sleep: FAILED (140.1 s) 
+runner finished

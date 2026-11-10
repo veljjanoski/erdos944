@@ -1,0 +1,14 @@
+12 jobs, 0 already finished/skipped, 12 to run
+[2026-11-10 00:03:42] cube3_s10_PSL28_c4_sh1: DONE (20020.6 s) PSL28 order 504: SHARD-NO: shard 1/6 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.
+[2026-11-10 00:05:45] cube3_s10_PSL28_c4_sh4: DONE (20143.7 s) PSL28 order 504: SHARD-NO: shard 4/6 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.
+[2026-11-10 02:01:57] cube3_s9_PSL28_c4_sh5: DONE (27115.8 s) PSL28 order 504: SHARD-NO: shard 5/6 of the cubes has no (4,2)-Cayley graph with degree in [9,9]; the lane is NO only if all shards are complete (lane_status.py
+[2026-11-10 02:02:15] cube3_s9_PSL28_c4_sh1: DONE (27133.8 s) PSL28 order 504: SHARD-NO: shard 1/6 of the cubes has no (4,2)-Cayley graph with degree in [9,9]; the lane is NO only if all shards are complete (lane_status.py
+[2026-11-10 02:15:14] cube3_s9_PSL28_c4_sh0: DONE (27913.4 s) PSL28 order 504: SHARD-NO: shard 0/6 of the cubes has no (4,2)-Cayley graph with degree in [9,9]; the lane is NO only if all shards are complete (lane_status.py
+[2026-11-10 02:25:31] cube3_s10_PSL28_c4_sh3: DONE (28529.8 s) PSL28 order 504: SHARD-NO: shard 3/6 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.
+[2026-11-10 02:26:31] cube3_s9_PSL28_c4_sh4: DONE (28589.9 s) PSL28 order 504: SHARD-NO: shard 4/6 of the cubes has no (4,2)-Cayley graph with degree in [9,9]; the lane is NO only if all shards are complete (lane_status.py
+[2026-11-10 02:29:15] cube3_s9_PSL28_c4_sh3: DONE (28754.0 s) PSL28 order 504: SHARD-NO: shard 3/6 of the cubes has no (4,2)-Cayley graph with degree in [9,9]; the lane is NO only if all shards are complete (lane_status.py
+[2026-11-10 02:38:39] cube3_s10_PSL28_c4_sh0: DONE (29318.3 s) PSL28 order 504: SHARD-NO: shard 0/6 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.
+[2026-11-10 03:06:51] cube3_s9_PSL28_c4_sh2: DONE (31010.2 s) PSL28 order 504: SHARD-NO: shard 2/6 of the cubes has no (4,2)-Cayley graph with degree in [9,9]; the lane is NO only if all shards are complete (lane_status.py
+[2026-11-10 03:26:32] cube3_s10_PSL28_c4_sh2: DONE (32190.7 s) PSL28 order 504: SHARD-NO: shard 2/6 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.
+[2026-11-10 04:16:01] cube3_s10_PSL28_c4_sh5: DONE (35160.2 s) PSL28 order 504: SHARD-NO: shard 5/6 of the cubes has no (4,2)-Cayley graph with degree in [10,10]; the lane is NO only if all shards are complete (lane_status.
+runner finished

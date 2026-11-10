@@ -1,0 +1,12 @@
+cube3_s9_PSL28_c4_sh0	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --shard 0/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s9_PSL28_c4_sh1	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --shard 1/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s9_PSL28_c4_sh2	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --shard 2/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s9_PSL28_c4_sh3	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --shard 3/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s9_PSL28_c4_sh4	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --shard 4/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s9_PSL28_c4_sh5	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --shard 5/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s10_PSL28_c4_sh0	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --shard 0/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s10_PSL28_c4_sh1	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --shard 1/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s10_PSL28_c4_sh2	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --shard 2/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s10_PSL28_c4_sh3	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --shard 3/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s10_PSL28_c4_sh4	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --shard 4/6 --solver cadical300 --presplit 10 --budget 100000
+cube3_s10_PSL28_c4_sh5	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --shard 5/6 --solver cadical300 --presplit 10 --budget 100000

@@ -1,0 +1,2 @@
+{"id": "vs_sh1", "status": "FAILED", "rc": 15, "seconds": 58.0, "last": "  4753 cubes, shard 1/2: 2376 cubes, 24 already done in the lane, 0 of mine", "time": "2026-11-05 16:54:22"}
+{"id": "vs_sh0", "status": "FAILED", "rc": 15, "seconds": 62.1, "last": "  4753 cubes, shard 0/2: 2377 cubes, 0 already done in the lane, 0 of mine", "time": "2026-11-05 16:54:26"}

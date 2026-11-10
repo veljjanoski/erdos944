@@ -1,0 +1,3 @@
+m1415_c153	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --norecord --only 14,15 --prog m1415_c153
+m1415_c300	python ../../cegar944s.py PSL28 2 10 10 --sigma 4 --cubes --norecord --only 14,15 --solver cadical300 --prog m1415_c300
+m1418_c300	python ../../cegar944s.py PSL28 2 9 9 --sigma 4 --cubes --norecord --only 14,18 --solver cadical300 --prog m1418_c300
